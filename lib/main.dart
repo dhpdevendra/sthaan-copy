@@ -25,7 +25,7 @@ class _MyAppState extends State<MyApp> {
       for (final office in googleOffices.sthaan) {
         final marker = Marker(
           markerId: MarkerId(office.name),
-          icon: BitmapDescriptor.defaultMarkerWithHue(BitmapDescriptor.hueRed),
+          icon: BitmapDescriptor.defaultMarker,
           position: LatLng(office.lat, office.lng),
           infoWindow: InfoWindow(
             title: office.name,
