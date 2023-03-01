@@ -21,23 +21,23 @@ class LatLng {
   final double lng;
 }
 
-//@JsonSerializable()
-//class Region {
-//Region({
-//required this.coords,
-//required this.id,
-//required this.name,
-//required this.zoom,
-//});
+@JsonSerializable()
+class Region {
+  Region({
+    required this.coords,
+    required this.id,
+    required this.name,
+    required this.zoom,
+  });
 
-//factory Region.fromJson(Map<String, dynamic> json) => _$RegionFromJson(json);
-//Map<String, dynamic> toJson() => _$RegionToJson(this);
+  factory Region.fromJson(Map<String, dynamic> json) => _$RegionFromJson(json);
+  Map<String, dynamic> toJson() => _$RegionToJson(this);
 
-//final LatLng coords;
-//final String id;
-//final String name;
-//final double zoom;
-//}
+  final LatLng coords;
+  final String id;
+  final String name;
+  final double zoom;
+}
 
 @JsonSerializable()
 class Office {
@@ -71,7 +71,7 @@ class Office {
 class Locations {
   Locations({
     required this.sthaan,
-    // required this.regions,
+    required this.districts,
   });
 
   factory Locations.fromJson(Map<String, dynamic> json) =>
@@ -79,7 +79,7 @@ class Locations {
   Map<String, dynamic> toJson() => _$LocationsToJson(this);
 
   final List<Office> sthaan;
-  //final List<Region> regions;
+  final List<Region> districts;
 }
 
 Future<Locations> getGoogleOffices() async {

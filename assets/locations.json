@@ -3674,5 +3674,21 @@
       "mLongDescription": "आसन स्थान. सर्वज्ञ श्रीचक्रधरस्वामींचे एकांकातील आसन स्थान. जवळच मुक्ताबाईच्या गुंफेतील पूजा आरोगणा स्थान.",
       "image": "http://nagpurdental.com/SthaanImages/SalbardiAasan"
     }
-  ]
+  ], "districts": [
+    {"coords": {"lat": 17.5780, "lng": 74.030}, "id": "satara", "name": "Satara", "zoom": 6.0},
+    {"coords": {"lat": 19.4555, "lng": 74.4057}, "id": "ahmednagar", "name": "Ahmednagar", "zoom": 6.0},
+    {"coords": {"lat": 20.1623, "lng": 74.0300}, "id": "nashik", "name": "Nashik", "zoom": 6.0},
+    {"coords": {"lat": 19.8911, "lng": 75.1545}, "id": "aurangabad", "name": "Aurangabad", "zoom": 6.0},
+    {"coords": {"lat": 19.6807, "lng": 75.9928}, "id": "jalna", "name": "Jalna", "zoom": 6.0},
+    {"coords": {"lat": 18.9438, "lng": 77.3784}, "id": "nanded", "name": "Nanded", "zoom": 6.0},
+    {"coords": {"lat": 18.9220, "lng": 75.8069}, "id": "beed", "name": "Beed", "zoom": 6.0},
+    {"coords": {"lat": 21.0396, "lng": 75.5277}, "id": "jalgaon", "name": "Jalgaon", "zoom": 6.0},
+    {"coords": {"lat": 20.4561, "lng": 76.3637}, "id": "buldana", "name": "Buldana", "zoom": 6.0},
+    {"coords": {"lat": 20.7004, "lng": 77.1025}, "id": "akola", "name": "Akola", "zoom": 6.0},
+    {"coords": {"lat": 21.1162, "lng": 77.6536}, "id": "amravati", "name": "Amravati", "zoom": 6.0},
+    {"coords": {"lat": 20.8049, "lng": 78.5661}, "id": "wardha", "name": "Wardha", "zoom": 6.0},
+    {"coords": {"lat": 21.3170, "lng": 79.2000}, "id": "nagpur", "name": "Nagpur", "zoom": 6.0},
+    {"coords": {"lat": 21.0736, "lng": 79.8297}, "id": "bhandara", "name": "Bhandara", "zoom": 6.0},
+    {"coords": {"lat": 21.2835, "lng": 80.1875}, "id": "gondia", "name": "Gondia", "zoom": 6.0},
+    {"coords": {"lat": 21.3571, "lng": 79.9847}, "id": "m.p.", "name": "M.P.", "zoom": 4.0}]
 }
