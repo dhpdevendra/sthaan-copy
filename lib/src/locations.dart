@@ -50,7 +50,7 @@ class Office {
     required this.name,
     required this.mLocation,
     //required this.phone,
-    //required this.region,
+    required this.district,
   });
 
   factory Office.fromJson(Map<String, dynamic> json) => _$OfficeFromJson(json);
@@ -64,7 +64,7 @@ class Office {
   final String name;
   final String mLocation;
   //final String phone;
-  //final String region;
+  final String district;
 }
 
 @JsonSerializable()

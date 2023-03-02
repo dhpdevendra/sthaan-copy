@@ -24,7 +24,7 @@ class _MyAppState extends State<MyApp> {
       _markers.clear();
       for (final office in googleOffices.sthaan) {
         final marker = Marker(
-          markerId: MarkerId(office.name),
+          markerId: MarkerId(office.id),
           icon: BitmapDescriptor.defaultMarker,
           position: LatLng(office.lat, office.lng),
           infoWindow: InfoWindow(
@@ -51,6 +51,7 @@ class _MyAppState extends State<MyApp> {
         ),
         body: GoogleMap(
           onMapCreated: _onMapCreated,
+          myLocationEnabled: true,
           initialCameraPosition: const CameraPosition(
             target: LatLng(20.9320, 77.7523),
             zoom: 6,
@@ -64,3 +65,5 @@ class _MyAppState extends State<MyApp> {
     );
   }
 }
+//flutter pub run build_runner build --delete-conflicting-outputs
+//to remove conflicts in locations.dart about Locations.fromJson

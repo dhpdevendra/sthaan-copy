@@ -1,8 +1,8 @@
 {
   "sthaan": [
     {
-      "id": 1,
-      "District": "Satara",
+      "id": "1",
+      "district": "Satara",
       "mDistrict": "सातारा",
       "name": "Phaltan (Janmasthaan)",
       "mLocation": "फलटण (जन्मस्थान)",
@@ -14,8 +14,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Phaltan"
     },
     {
-      "id": 2,
-      "District": "Satara",
+      "id": "2",
+      "district": "Satara",
       "mDistrict": "सातारा",
       "name": "Phaltan (Sarvatirth)",
       "mLocation": "फलटण (सर्वतीर्थ)",
@@ -26,8 +26,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Phaltan"
     },
     {
-      "id": 3,
-      "District": "Satara",
+      "id": "3",
+      "district": "Satara",
       "mDistrict": "सातारा",
       "name": "Phaltan (Avasthan)",
       "mLocation": "फलटण (अवस्थान)",
@@ -38,8 +38,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Phaltan"
     },
     {
-      "id": 4,
-      "District": "Satara",
+      "id": "4",
+      "district": "Satara",
       "mDistrict": "सातारा",
       "name": "Phaltan (Rangshila)",
       "mLocation": "फलटण (रंगशिळा)",
@@ -50,8 +50,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Phaltan"
     },
     {
-      "id": 5,
-      "District": "Satara",
+      "id": "5",
+      "district": "Satara",
       "mDistrict": "सातारा",
       "name": "Phaltan (Maltan Tale)",
       "mLocation": "फलटण (मलटण तळे)",
@@ -62,8 +62,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Phaltan"
     },
     {
-      "id": 6,
-      "District": "Satara",
+      "id": "6",
+      "district": "Satara",
       "mDistrict": "सातारा",
       "name": "Phaltan (Maltan Datta Mandir)",
       "mLocation": "फलटण (मलटण दत्त मंदिर)",
@@ -74,8 +74,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Phaltan"
     },
     {
-      "id": 7,
-      "District": "Satara",
+      "id": "7",
+      "district": "Satara",
       "mDistrict": "सातारा",
       "name": "Phaltan (Maltan Viharan Sthaan)",
       "mLocation": "फलटण (मलटण विहरण स्थान)",
@@ -86,8 +86,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Phaltan"
     },
     {
-      "id": 8,
-      "District": "Ahmednagar",
+      "id": "8",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Parner",
       "mLocation": "पारनेर",
@@ -99,8 +99,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Parner"
     },
     {
-      "id": 9,
-      "District": "Ahmednagar",
+      "id": "9",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Loni (Haveli)",
       "mLocation": "लोणी (हवेली)",
@@ -112,8 +112,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Loni(Haveli)"
     },
     {
-      "id": 10,
-      "District": "Ahmednagar",
+      "id": "10",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Jamgaon",
       "mLocation": "जामगाव",
@@ -125,8 +125,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Jamgaon"
     },
     {
-      "id": 11,
-      "District": "Ahmednagar",
+      "id": "11",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Nepti",
       "mLocation": "नेप्ती",
@@ -138,8 +138,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Nepti"
     },
     {
-      "id": 12,
-      "District": "Ahmednagar",
+      "id": "12",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Arangaon",
       "mLocation": "अरणगाव",
@@ -151,8 +151,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Arangaon"
     },
     {
-      "id": 13,
-      "District": "Ahmednagar",
+      "id": "13",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Nagapur",
       "mLocation": "नागापूर",
@@ -164,8 +164,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Nagapur"
     },
     {
-      "id": 14,
-      "District": "Ahmednagar",
+      "id": "14",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Shendi (Pokhardi)",
       "mLocation": "शेंडी (पोखर्डी)",
@@ -177,8 +177,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Shendi%20(Pokhardi)"
     },
     {
-      "id": 15,
-      "District": "Ahmednagar",
+      "id": "15",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Dongargan",
       "mLocation": "डोंगरगण",
@@ -190,8 +190,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Dongargan"
     },
     {
-      "id": 16,
-      "District": "Ahmednagar",
+      "id": "16",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Vambori",
       "mLocation": "वांबोरी",
@@ -203,8 +203,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Vambori"
     },
     {
-      "id": 17,
-      "District": "Ahmednagar",
+      "id": "17",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Bhingar",
       "mLocation": "भिंगार",
@@ -216,8 +216,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Bhingar"
     },
     {
-      "id": 18,
-      "District": "Ahmednagar",
+      "id": "18",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Chinchodi (Patil)",
       "mLocation": "चिंचोडी (पाटील)",
@@ -229,8 +229,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Chinchodi(Patil)"
     },
     {
-      "id": 19,
-      "District": "Ahmednagar",
+      "id": "19",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Narayan Doh",
       "mLocation": "नारायणडोह",
@@ -242,8 +242,8 @@
       "image": "http://nagpurdental.com/SthaanImages/NarayanDoh"
     },
     {
-      "id": 20,
-      "District": "Ahmednagar",
+      "id": "20",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Madh Pimpri",
       "mLocation": "मढपिंपरी",
@@ -255,8 +255,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Madh%20Pimpri"
     },
     {
-      "id": 21,
-      "District": "Ahmednagar",
+      "id": "21",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Mandavgan",
       "mLocation": "मांडवगण",
@@ -268,21 +268,21 @@
       "image": "http://nagpurdental.com/SthaanImages/Mandavgan"
     },
     {
-      "id": 22,
-      "District": "Ahmednagar",
+      "id": "22",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Ghogargaon (Tal. Shrigonda)",
       "mLocation": "घोगरगाव (ता. श्रीगोन्दा)",
-      "lat": "18.808730",
-      "lng": "74.899190",
+      "lat": 18.808730,
+      "lng": 74.899190,
       "mShortDescription": "वसती स्थान ",
       "mLongDescription": "वसती स्थान. सर्वज्ञ या गावी पूर्वार्धात व उत्तरार्धात असे दोनदा आले. या दोन्ही वेळेस त्यांचा एक-एक दिवस मुक्काम होता. ",
       "Rough Work": "vasati",
       "image": "http://nagpurdental.com/SthaanImages/Ghogargaon%20(Tal.%20Shrigonda)"
     },
     {
-      "id": 23,
-      "District": "Ahmednagar",
+      "id": "23",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Mirajgaon",
       "mLocation": "मिरजगाव",
@@ -294,8 +294,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Mirajgaon"
     },
     {
-      "id": 24,
-      "District": "Ahmednagar",
+      "id": "24",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Sakat",
       "mLocation": "साकत",
@@ -307,135 +307,135 @@
       "image": "http://nagpurdental.com/SthaanImages/Sakat"
     },
     {
-      "id": 25,
-      "District": "Ahmednagar",
+      "id": "25",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Lad Jalgaon",
       "mLocation": "लाडजळगाव",
-      "lat": "19.263556",
-      "lng": "75.443191",
+      "lat": 19.263556,
+      "lng": 75.443191,
       "mShortDescription": "वसती स्थान ",
       "mLongDescription": "वसती स्थान. सर्वज्ञ श्रीचक्रधरप्रभू आपल्या परिभ्रमणाच्या उत्तरार्ध काळात चापडगावहून योथे आले तेव्हा त्यांचे येथील लहानशा लिंगाच्या देवळात एक रात्र वास्तव्य झाले. दुसर्‍ या दिवशी ते नागलवाडीला गेले. ",
       "image": "http://nagpurdental.com/SthaanImages/Ladjalgaon"
     },
     {
-      "id": 26,
-      "District": "Ahmednagar",
+      "id": "26",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Nagalwadi",
       "mLocation": "नागलवाडी",
-      "lat": "19.218148",
-      "lng": "75.411036",
+      "lat": 19.218148,
+      "lng": 75.411036,
       "mShortDescription": "आसन स्थान",
       "mLongDescription": "1) आसन स्थान, 2) जळमांडवी जळक्रीडा. सर्वज्ञ श्रीचक्रधरप्रभू नागलवाडी जवळील डोंगराच्या दर्‍ यातील नागार्जुनाच्या उत्तराभिमुख असलेल्या भुयाराच्या मुखाजवळील हे स्थान होय. तेथे आल्यावर सर्वज्ञ दायंबाला म्हणतात कि या भुयारात नागार्जुन अद्याप पडलेला असुन त्याचे धड एकीकडे व शिर दुसरीकडे पडलेले आहे. जो कोणी ते धड व शिर लावेल त्याला सिध्दी प्राप्त होईल. तुम्ही लावल्यास तुम्हाला देखिल सिध्दी प्राप्त होईल. त्यावेळेस दायंबा गोसावियांना विचारतात कि मग आपले दर्शन आम्हाला कुठे होईल. तेव्हा सर्वज्ञ म्हणतात कि ते सांगता येणार नाही. त्यावर दायंबा म्हणाले तर मग ते तसेच असु द्या. पुढे एक किलो मिटर अंतरावरिल डोंगराच्या खोर्‍ यातील केदारेश्वराच्या पाठीमागील जळमांडी विहीर असुन येथे सर्वज्ञ जळक्रीडा करित असत. विहीर संपुर्ण नमस्कारी असल्या कारणाने लांब उभे राहुनच आपणास नमस्करणीय आहे. या गावाच्या नागार्जुनाची खांडदेवळी नासीच्या पटीशाळेवर सर्वज्ञांचे 20 दिवस वास्तव्य होते. ",
       "image": "http://nagpurdental.com/SthaanImages/Nagalwadi"
     },
     {
-      "id": 27,
-      "District": "Ahmednagar",
+      "id": "27",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Kharvandi (Kasar)",
       "mLocation": "खरवंडी (कासार)",
-      "lat": "19.163001",
-      "lng": "75.373882",
+      "lat": 19.163001,
+      "lng": 75.373882,
       "mShortDescription": "वसती स्थान ",
       "mLongDescription": "वसती स्थान. सर्वज्ञ श्रीचक्रधरप्रभू आपल्या परिभ्रमणाच्या उत्तरार्ध काळात सर्वज्ञ पारगावाहून येथे आल्यावर एथील एक रात्रीच्या वास्तव्यानंतर ते येळीला गेले. ",
       "image": "http://nagpurdental.com/SthaanImages/Kharvandi%20(Kasar)"
     },
     {
-      "id": 28,
-      "District": "Ahmednagar",
+      "id": "28",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Bheticha vad",
       "mLocation": "भेटिचा वड",
-      "lat": "19.170857",
-      "lng": "75.352409",
+      "lat": 19.170857,
+      "lng": 75.352409,
       "mShortDescription": "आसन स्थान",
       "mLongDescription": "आसन स्थान. सर्वज्ञ श्रीचक्रधरप्रभू आपल्या परिभ्रमणाच्या उत्तरार्ध काळात खरवंडीहून येळीला जात असतांना रस्त्यातील एका मोठ्या वडाच्या झाडा जवळ ऋध्दपूरवरून आलेल्या म्हाइंभटांची व सर्वज्ञांची भेट झाली. तेव्हा सर्वज्ञांना त्या वडाच्या झाडा खाली आसन झाले. म्हाइंभटांनी आपले सर्व क्षेमकुशल व श्रीप्रभूंपासुन माझे अनुसरण कसे घडले वगैरे सर्व वृतांत कथन केल्यावर सर्वज्ञांच्या आज्ञेनुसार आणलेल्या मोजक्याच पानांची पत्रावळी करून सर्वज्ञांची आरोगणा झाली.",
       "Rough Work": "arogana,mahim bhat bhet",
       "image": "http://nagpurdental.com/SthaanImages/Bheticha%20Vad"
     },
     {
-      "id": 29,
-      "District": "Ahmednagar",
+      "id": "29",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Yeli",
       "mLocation": "येळी",
-      "lat": "19.181943",
-      "lng": "75.318875",
+      "lat": 19.181943,
+      "lng": 75.318875,
       "mShortDescription": "वसती स्थान ",
       "mLongDescription": "वसती स्थान. सर्वज्ञ श्रीचक्रधरप्रभू आपल्या परिभ्रमणाच्या उत्तरार्ध काळात खरवंडीहून येळीला आले. त्यांचे येथिल सिध्दनाथाच्या देवळात एक रात्र वास्तव्य होते. ",
       "Rough Work": "vasati",
       "image": "http://nagpurdental.com/SthaanImages/Yeli"
     },
     {
-      "id": 30,
-      "District": "Ahmednagar",
+      "id": "30",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Avhane Budruk",
       "mLocation": "आव्हाणे बु.",
-      "lat": "19.294238",
-      "lng": "75.142023",
+      "lat": 19.294238,
+      "lng": 75.142023,
       "mShortDescription": "वसती स्थान ",
       "mLongDescription": "वसती स्थान. सर्वज्ञ श्रीचक्रधरप्रभू आपल्या परिभ्रमणाच्या उत्तरार्ध काळातील पहिल्या वेळेस सर्वज्ञ जेव्हा वांबोरीहून येथे आले तेव्हा एक रात्रीच्या वास्तव्यानंतर स्वामी देवळाण्याला गेले व दुसर्‍ या वेळेस आले तेव्हा भोकरला गेले.   ",
       "Rough Work": "vasati",
       "image": "http://nagpurdental.com/SthaanImages/Awhane"
     },
     {
-      "id": 31,
-      "District": "Ahmednagar",
+      "id": "31",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Miri",
       "mLocation": "मिरी",
-      "lat": "19.286466",
-      "lng": "74.967572",
+      "lat": 19.286466,
+      "lng": 74.967572,
       "mShortDescription": "अवस्थान स्थान ",
       "mLongDescription": "1) अवस्थान स्थान, 2) मादणे. सर्वज्ञ श्रीचक्रधरप्रभू आपल्या परिभ्रमणाच्या उत्तरार्ध काळात रांजगावाहून येथे आले त्यांचे गावी महालक्ष्मीच्या देवळात 20 दिवस वास्तव्य होते. येथे असतांना सर्वज्ञांना दररोज दादोसांच्या घरून उपहार यायचा. याच ठिकाणी सर्वज्ञांनी भटोबासांच्या प्रश्नावरून अटनविधीचे निरूपण केले.\r\n ",
       "Rough Work": "avasthan,madne,",
       "image": "http://nagpurdental.com/SthaanImages/Miri"
     },
     {
-      "id": 32,
-      "District": "Ahmednagar",
+      "id": "32",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Khandgaon (Lohsar)",
       "mLocation": "खांडगाव (लोहसर)",
-      "lat": "19.185177",
-      "lng": "74.967326",
+      "lat": 19.185177,
+      "lng": 74.967326,
       "mShortDescription": "आसन स्थान",
       "mLongDescription": "आसन स्थान. सर्वज्ञ श्रीचक्रधरप्रभू आपल्या परिभ्रमणाच्या उत्तरार्ध काळात मिरीहून येथे आले. साधाने कणेरीच्या फुलांनी सर्वंज्ञांची पुजा केली. ",
       "Rough Work": "asan",
       "image": "http://nagpurdental.com/SthaanImages/Khandgaon(Lohsar)"
     },
     {
-      "id": 33,
-      "District": "Ahmednagar",
+      "id": "33",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Sonai",
       "mLocation": "सोनई",
-      "lat": "19.395062",
-      "lng": "74.815773",
+      "lat": 19.395062,
+      "lng": 74.815773,
       "mShortDescription": "वसती स्थान ",
       "mLongDescription": "वसती स्थान. सर्वज्ञ श्रीचक्रधरप्रभू आपल्या परिभ्रमणाच्या पुर्वार्ध काळात वांबोरीहून सोनईला आले. वनदेवाच्या महादेवाच्या देवळातील चौकात बाईसांनी त्यांचे श्रीचरण प्रक्षाळण केले. पुजावसर, आरोगणा, गुळ्ळा वगैरे सर्व विधी आटोपल्यावर रात्रीच्या मुक्कामानंतर दुसर्‍ या दिवशी स्वामी येथुन कानडगावला गेले. ",
       "Rough Work": "vasati",
       "image": "http://nagpurdental.com/SthaanImages/Sonai"
     },
     {
-      "id": 34,
-      "District": "Ahmednagar",
+      "id": "34",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Belapur",
       "mLocation": "बेलापूर",
-      "lat": "19.561846",
-      "lng": "74.643903",
+      "lat": 19.561846,
+      "lng": 74.643903,
       "mShortDescription": "अवस्थान स्थान ",
       "mLongDescription": "1) अवस्थान स्थान, 2) आरोगण, 3) माहाइसा तूप वाढणे, 4) दक्षिण सोंडी आसन, 5) उत्तर सोंडी आसन, 6) मादणे, 7) वज्री घडणे, 8) भीडी आसन, 9) उदका विनियोग, 10) परिश्रय, 11) आसन, 12) आसन, 13) आसन,14) वृंदावन, 15) लघु परिश्रय, 16) महाव्दार, 17) दांडी आरोहण, 18) वनदेव, 19) मादणे. सर्वज्ञ श्रीचक्रधरप्रभू आपल्या परिभ्रमणाच्या उत्तरार्ध काळात भोकरहून बेलापूरला आले. गावाच्या पुर्वेला असलेल्या सिध्दनाथाच्या देवळात सर्वज्ञांचा पाच दिवस मुक्काम होता. त्यानंतर वनदेवाच्या देवळात 10 दिवस व नंतर बेलापूरच्या आदित्याच्या मंदिरात तीन महिन्यांचे वास्तव्य होते. माहादाइसा सर्वज्ञांच्या ठायी नित्य नियमाने सकाळ, दुपार, सायंकाळाचा पुजावसर करीत असत. भटोबास, म्हाइंभट, दायंबा, नाथोबा, माहादाइसा, आउसा वगैरे सर्व भक्तांना सर्वज्ञांनी आचार, विचार शास्त्राचे निरूपण केले. भटोबास व म्हाइंभटांना असतिपरी तथा असंन्निधान धर्माचे निरूपण व भटोबासांना महावाक्य प्रकरण निरूपण तसेच त्यांचे आचार्य नामकरण करणे. म्हाइंभटांना अन्यव्यावृत्ती निरूपण करणे, साधकांनी भिक्षेचेच अन्न खाणे, स्वइच्छेचा पदार्थ व्यर्जणे, एका ठिकाणी सर्वज्ञांनी आपल्या आंगीच्या बाह्या वर करून डाव्या श्रीकरी काळी वीट घेउन उजव्या श्रीचरणाच्या अंगठ्याने दाबुन धरून उजव्या श्रीकरी चिपतळी घेउन वज्री घडविण्याची लिळा केली. सर्वज्ञांची वरील लिळा करतांना पाहुन महादाइसाने आचार्यांना ती लिळा पाहण्यासाठी लगबगीने बोलाविले तसेंच गोसावियांना “बाबा आपण हे काय करित आहात?” म्हणून विचारले असता सर्वज्ञ म्हणतात “बाई आम्ही वज्री घडवित आहोत”. “बाबा वज्री म्हणजे काय हो?” “वज्री म्हणजे वारी तुरंग म्हणजे पाण्यावर चालणारे घोडे” जे बेटावर राहातात. दायंबांसोबत ऋध्दपूरला जातांना श्रीप्रभुंकरिता करिता पंचरंगी जाडी, चवरी, आडकित्ता, सुपार्‍ या, आरती , धुपाटणे, कापूर वगैरे वस्तू पाठविणे वगैरे अनंत लिळा येथील आहेत.\r\n  \r\n",
       "Rough Work": "avasthan,arogan,daxin uttar sondi,vajrighadvine",
       "image": "http://nagpurdental.com/SthaanImages/Belapur"
     },
     {
-      "id": 35,
-      "District": "Ahmednagar",
+      "id": "35",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Chas (Nali)",
       "mLocation": "चास (नळि)",
@@ -447,47 +447,47 @@
       "image": "http://nagpurdental.com/SthaanImages/Chas(Nali)"
     },
     {
-      "id": 36,
-      "District": "Ahmednagar",
+      "id": "36",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Suregaon Sangvi",
       "mLocation": "सुरेगाव (सांगवी)",
-      "lat": "19.928497",
-      "lng": "74.355801",
+      "lat": 19.928497,
+      "lng": 74.355801,
       "mShortDescription": "वसती स्थान ",
       "mLongDescription": "वसती स्थान. सर्वज्ञ श्रीचक्रधरप्रभू आपल्या परिभ्रमणाच्या पूर्वार्ध काळात सुरेगावला आल्यावर त्यांचा येथे एक दिवस मुक्काम होता. येथिल आदित्याच्या मंदिराच्या चौकातील हे स्थान होय. तेथुन स्वामी पुढे सोनारीला गेले. परंतु सोनारीचे जे हल्लीचे स्थान आहे ते मांडलिक आहे. ",
       "Rough Work": "vasati",
       "image": "http://nagpurdental.com/SthaanImages/Suregaon(Sangvi)"
     },
     {
-      "id": 37,
-      "District": "Ahmednagar",
+      "id": "37",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Sanvatsar",
       "mLocation": "संवत्सर",
-      "lat": "19.876109",
-      "lng": "74.519094",
+      "lat": 19.876109,
+      "lng": 74.519094,
       "mShortDescription": "वसती स्थान ",
       "mLongDescription": "1) वसती स्थान, 2) परिश्रय, 3) आसन. सर्वज्ञ श्रीचक्रधरप्रभू आपल्या परिभ्रमणाच्या पूर्वार्ध काळात सोनारीहून संवत्सरला आले. सर्वज्ञांच्या काळी येथे आदित्याचे देउळ होते त्या देवळाच्या चौकातील हे स्थान होय. सर्वज्ञांचे या ठिकाणी एक रात्र वास्तव्य होते. दुसर्‍ या दिवशी सकाळचा पूजावसर आटोपल्यावर ते गंगेच्या पलिकडे श्रृंगेश्वराच्या मंदिराकडे गेले. सर्वज्ञ श्रीचक्रधरप्रभू सोनारीहून आल्यावर त्यांना प्रथम येथेच आसन झाले. या स्थानाला पाच पायर्‍ यांचेस्थान असे संबोधण्यात येते. ",
       "Rough Work": "vasti,asan,parisray,asan,",
       "image": "http://nagpurdental.com/SthaanImages/Sanvatsar"
     },
     {
-      "id": 38,
-      "District": "Ahmednagar",
+      "id": "38",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Kokamthan",
       "mLocation": "कोकमठाण",
-      "lat": "19.864238",
-      "lng": "74.521551",
+      "lat": 19.864238,
+      "lng": 74.521551,
       "mShortDescription": "आसन स्थान",
       "mLongDescription": "1) वसती स्थान, 2) आसन, 3) आसन. सर्वज्ञ श्रीचक्रधरप्रभू आपल्या परिभ्रमणाच्या पूर्वार्ध काळात संवत्सरहून प्रथम येथे आले. हे स्थान गंगेच्या दक्षिण तीरावर असुन पाच पायर्‍ या स्थानाच्या समोर आहे. येथे सर्वज्ञांचा दुपारचा पुजावसर आटोपल्यावर थोडा वेळ आसन झाले. त्यानंतर गोसावी कोकमठाण गावात गेले. येथील दामोदराच्या देवळाच्या चौकात सर्वज्ञांचे आसन झाले. येथे बसुन माड अवलोकन केले व श्रीकरी धरीले. त्या काळच्या आदित्याच्या देवळात सर्वज्ञांचा पुजावसर होऊन आरोगणा, गुळ्ळा, विडा, पहुड, उपहुड झाल्यावर रात्रीच्या वास्तव्यानंतर सर्वज्ञ दुसर्‍ या दिवशी पुणतांब्याला गेले.\r\n",
       "Rough Work": "asan,vasti,asan",
       "image": "http://nagpurdental.com/SthaanImages/Kokamthan"
     },
     {
-      "id": 39,
-      "District": "Ahmednagar",
+      "id": "39",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Puntamba",
       "mLocation": "पुणतांबा",
@@ -499,34 +499,34 @@
       "image": "http://nagpurdental.com/SthaanImages/Puntamba"
     },
     {
-      "id": 40,
-      "District": "Ahmednagar",
+      "id": "40",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Naygaon",
       "mLocation": "नायगाव",
-      "lat": "19.758003",
-      "lng": "74.683717",
+      "lat": 19.758003,
+      "lng": 74.683717,
       "mShortDescription": "आसन स्थान",
       "mLongDescription": "आसन स्थान. सर्वज्ञ श्रीचक्रधरप्रभू आपल्या परिभ्रमणाच्या पूर्वार्ध काळात येथे आले. येथील थोड्या वेळाच्या वास्तव्यानंतर दायंबांची येथेच भेट झाली. त्यांतर स्वामी नाउरला गेले. ",
       "Rough Work": "asan,",
       "image": "http://nagpurdental.com/SthaanImages/Naygaon"
     },
     {
-      "id": 41,
-      "District": "Ahmednagar",
+      "id": "41",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Naur",
       "mLocation": "नाऊर",
-      "lat": "19.758882",
-      "lng": "74.702943",
+      "lat": 19.758882,
+      "lng": 74.702943,
       "mShortDescription": "वसती स्थान ",
       "mLongDescription": "वसती स्थान. सर्वज्ञ श्रीचक्रधरप्रभू आपल्या परिभ्रमणाच्या पूर्वार्ध काळात येथे आल्यावर दुपारचा पुजावसर व रात्रीचे एक दिवसाचे वास्तव्य या गावी होते. ",
       "Rough Work": "vasti",
       "image": "http://nagpurdental.com/SthaanImages/Naur"
     },
     {
-      "id": 42,
-      "District": "Ahmednagar",
+      "id": "42",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Domegram",
       "mLocation": "डोंबेग्राम",
@@ -538,8 +538,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Domegram"
     },
     {
-      "id": 43,
-      "District": "Ahmednagar",
+      "id": "43",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Domegram Chhinnasthali",
       "mLocation": "डोंबेग्राम छिन्नस्थळी",
@@ -551,8 +551,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Domegram%20Chhinnasthali"
     },
     {
-      "id": 44,
-      "District": "Ahmednagar",
+      "id": "44",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Ghumandeo",
       "mLocation": "घुमनदेव",
@@ -564,8 +564,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Ghumandeo"
     },
     {
-      "id": 45,
-      "District": "Ahmednagar",
+      "id": "45",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Bhokar",
       "mLocation": "भोकर",
@@ -577,8 +577,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Bhokar"
     },
     {
-      "id": 46,
-      "District": "Ahmednagar",
+      "id": "46",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Khokar",
       "mLocation": "खोकर",
@@ -590,8 +590,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Khokar"
     },
     {
-      "id": 47,
-      "District": "Ahmednagar",
+      "id": "47",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Takli Bhan",
       "mLocation": "टाकळीभान",
@@ -603,8 +603,8 @@
       "image": "http://nagpurdental.com/SthaanImages/TakliBhan"
     },
     {
-      "id": 48,
-      "District": "Ahmednagar",
+      "id": "48",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Ghogargaon (Tal. Nevasa)",
       "mLocation": "घोगरगाव (ता. नेवासा)",
@@ -616,8 +616,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Ghogargaon(Tal-Nevasa)"
     },
     {
-      "id": 49,
-      "District": "Ahmednagar",
+      "id": "49",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Bel Pimpalgaon",
       "mLocation": "बेल पिंपळगाव",
@@ -629,8 +629,8 @@
       "image": "http://nagpurdental.com/SthaanImages/BelPimpalgaon"
     },
     {
-      "id": 50,
-      "District": "Ahmednagar",
+      "id": "50",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Suregaon (Bhalgaon)",
       "mLocation": "सुरेगाव (भालगाव)",
@@ -642,8 +642,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Suregaon%20(Bhalgaon)"
     },
     {
-      "id": 51,
-      "District": "Ahmednagar",
+      "id": "51",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Nevasa",
       "mLocation": "नेवासा",
@@ -655,8 +655,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Nevasa"
     },
     {
-      "id": 52,
-      "District": "Ahmednagar",
+      "id": "52",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Dusre Galnimb June",
       "mLocation": "दुसरे गळनिंब जुने",
@@ -668,8 +668,8 @@
       "image": "http://nagpurdental.com/SthaanImages/DusreGalnimbJune"
     },
     {
-      "id": 53,
-      "District": "Ahmednagar",
+      "id": "53",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Koteshwar",
       "mLocation": "कोटेश्वर",
@@ -681,8 +681,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Koteshwar"
     },
     {
-      "id": 54,
-      "District": "Ahmednagar",
+      "id": "54",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Suregaon (Dahigaon)",
       "mLocation": "सुरेगाव (दहिगाव)",
@@ -694,8 +694,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Suregaon(Dahigaon)"
     },
     {
-      "id": 55,
-      "District": "Ahmednagar",
+      "id": "55",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Warkhed (Ghat Siddhanath)",
       "mLocation": "वरखेड (घट सिद्धनाथ)",
@@ -707,8 +707,8 @@
       "image": "fhttp://nagpurdental.com/SthaanImages/Warkhed%20(Ghat%20Siddhanath)"
     },
     {
-      "id": 56,
-      "District": "Ahmednagar",
+      "id": "56",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Chapadgaon",
       "mLocation": "चापडगाव",
@@ -720,8 +720,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Chapadgaon"
     },
     {
-      "id": 57,
-      "District": "Ahmednagar",
+      "id": "57",
+      "district": "Ahmednagar",
       "mDistrict": "अहमदनगर",
       "name": "Ghotan",
       "mLocation": "घोटण",
@@ -733,21 +733,21 @@
       "image": "http://nagpurdental.com/SthaanImages/Ghotan"
     },
     {
-      "id": 58,
-      "District": "Nashik",
+      "id": "58",
+      "district": "Nashik",
       "mDistrict": "नाशिक",
       "name": "Khopdi",
       "mLocation": "खोपडी",
-      "lat": "19.837453",
-      "lng": "74.112971",
+      "lat": 19.837453,
+      "lng": 74.112971,
       "mShortDescription": "वसती स्थान",
       "mLongDescription": "वसती स्थान. सर्वज्ञ श्रीचक्रधरप्रभू आपल्या परिभ्रमणाच्या पूर्वार्ध काळात वावीहून येथे आले. या ठिकाणी सर्वज्ञांचे एक रात्र वास्तव्य होते. येथून दुसर्‍ या दिवशी गोसावी वावीला गेले. ",
       "Rough Work": "vasati",
       "image": "http://nagpurdental.com/SthaanImages/Khopdi"
     },
     {
-      "id": 59,
-      "District": "Nashik",
+      "id": "59",
+      "district": "Nashik",
       "mDistrict": "नाशिक",
       "name": "Sinnar",
       "mLocation": "सिन्नर",
@@ -759,8 +759,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Sinnar"
     },
     {
-      "id": 60,
-      "District": "Nashik",
+      "id": "60",
+      "district": "Nashik",
       "mDistrict": "नाशिक",
       "name": "Sinnar (Bhojanta Sthaan)",
       "mLocation": "सिन्नर (भोजनता स्थान)",
@@ -771,59 +771,59 @@
       "image": "http://nagpurdental.com/SthaanImages/Sinnar"
     },
     {
-      "id": 61,
-      "District": "Nashik",
+      "id": "61",
+      "district": "Nashik",
       "mDistrict": "नाशिक",
       "name": "Tryambak (Tryambakeshwar Temple)",
       "mLocation": "त्र्यंबक (त्र्यंबकेश्वर मंदिर)",
-      "lat": "19.932220",
-      "lng": "73.532103 ",
+      "lat": 19.932220,
+      "lng": 73.532103,
       "mShortDescription": "त्र्यंबकेश्वरा विडा वाहणे स्थान",
       "mLongDescription": "1)त्र्यंबकेश्वरा विडा वाहणे स्थान, 2) आसन स्थान.  सर्वज्ञ श्रीचक्रधरप्रभू आपल्या परिभ्रमणाच्या पूर्वार्ध काळात अंजनेरीहून येथे आले. त्र्ययंबकेश्वराच्या जुन्या मंदिरातील जे गोदावरी व अहिल्या या दोन नद्यांच्या संगमाजवळ आहे, तेथील लिंगास सर्वज्ञांनी विडा वाहून दोन्ही श्रीकरांनी या लिंगास स्पर्श केल्यामुळे हे लिंग चरणांकीत आहे. विडा वाहुन झाल्यानंतर सर्वज्ञांचे मंदिराच्या चौकात आसन होउन थोडा वेळ विश्रांतीही झाली. या ठिकाणी सर्वज्ञांचे पाच दिवस वास्तव्य होते. येथून गोसावी पुन्हा अंजनेरीला गेले. ",
       "Rough Work": "asan,vida vahane",
       "image": "http://nagpurdental.com/SthaanImages/Tryambak"
     },
     {
-      "id": 62,
-      "District": "Nashik",
+      "id": "62",
+      "district": "Nashik",
       "mDistrict": "नाशिक",
       "name": "Tryambak (Parvat)",
       "mLocation": "त्र्यंबक (पर्वत)",
-      "lat": "19.919152",
-      "lng": "73.519782",
+      "lat": 19.919152,
+      "lng": 73.519782,
       "mShortDescription": "औदुंबर भक्षण स्थान",
       "mLongDescription": "औदुंबर भक्षण स्थान",
       "image": "http://nagpurdental.com/SthaanImages/TryambakParvat"
     },
     {
-      "id": 63,
-      "District": "Nashik",
+      "id": "63",
+      "district": "Nashik",
       "mDistrict": "नाशिक",
       "name": "Anjneri",
       "mLocation": "अंजनेरी",
-      "lat": "19.947004",
-      "lng": "73.590956",
+      "lat": 19.947004,
+      "lng": 73.590956,
       "mShortDescription": "वसती स्थान",
       "mLongDescription": "वसती स्थान. सर्वज्ञ श्रीचक्रधरप्रभू आपल्या परिभ्रमणाच्या पूर्वार्ध काळात गोवर्धनहून अंजनेरीला आले. येथील पूर्वाभिमुख जैन मंदिरातील चौकात सर्वज्ञांचे एक रात्र वास्तव्य होते. येथुन पुन्हा स्वामी त्र्यंबकला गेले व त्र्यंबकहून परत नासिकला येतांना स्वामींचे पुन्हा एक रात्र वास्तव्य होते.",
       "Rough Work": "vasati",
       "image": "http://nagpurdental.com/SthaanImages/Anjneri"
     },
     {
-      "id": 64,
-      "District": "Nashik",
+      "id": "64",
+      "district": "Nashik",
       "mDistrict": "नाशिक",
       "name": "Govardhan (Gangapur)",
       "mLocation": "गोवर्धन (गंगापूर)",
-      "lat": "20.035410",
-      "lng": "73.718101",
+      "lat": 20.035410,
+      "lng": 73.718101,
       "mShortDescription": "वसती स्थान",
       "mLongDescription": "वसती स्थान. सर्वज्ञ श्रीचक्रधरप्रभू आपल्या परिभ्रमणाच्या पूर्वार्ध काळात नासिकहून येथे आले त्या वेळेस येथे गदाधराचे देउळ होते या देवळाच्या चौकात सर्वज्ञांचा एक रात्र मुक्काम होता. येथून स्वामी दुसर्‍ या दिवशी अंजनेरीला गेले. ",
       "Rough Work": "vasati",
       "image": "http://nagpurdental.com/SthaanImages/Govardhan(Gangapur)"
     },
     {
-      "id": 65,
-      "District": "Nashik",
+      "id": "65",
+      "district": "Nashik",
       "mDistrict": "नाशिक",
       "name": "Nashik (Panchavati)",
       "mLocation": "नाशिक (पंचवटी)",
@@ -835,7 +835,7 @@
       "image": "http://nagpurdental.com/SthaanImages/Nashik"
     },
     {
-      "id": 66,
+      "id": "66",
       "mDistrict": "नाशिक",
       "name": "Nashik (Sundarnarayan)",
       "mLocation": "नाशिक (सुंदरनारायण)",
@@ -846,34 +846,34 @@
       "image": "http://nagpurdental.com/SthaanImages/Nashik"
     },
     {
-      "id": 67,
-      "District": "Nashik",
+      "id": "67",
+      "district": "Nashik",
       "mDistrict": "नाशिक",
       "name": "Aadgaon (Adgaon)",
       "mLocation": "आडगाव",
-      "lat": "20.034972",
-      "lng": "73.863084",
+      "lat": 20.034972,
+      "lng": 73.863084,
       "mShortDescription": "वसती स्थान",
       "mLongDescription": "1)वसती स्थान, 2) मादणे. सर्वज्ञ श्रीचक्रधरप्रभू आपल्या परिभ्रमणाच्या पूर्वार्ध काळात येथिल लिंगाच्या देवळातील चौकात सर्वज्ञांना आसन झाले. त्यांनी उपाध्ये व उपासनिये यांना पुढील गावास पाठविले. येथे एक रात्र वास्तव्य केल्यावर सर्वज्ञ दुसर्‍ या दिवशी सकाळच्या पुजावसरानंतर ते सुकेण्याला गेले. ",
       "Rough Work": "vasati",
       "image": "http://nagpurdental.com/SthaanImages/Adgaon"
     },
     {
-      "id": 68,
-      "District": "Nashik",
+      "id": "68",
+      "district": "Nashik",
       "mDistrict": "नाशिक",
       "name": "Mouje Sukene",
       "mLocation": "मौजे सुकेणे",
-      "lat": "20.075391",
-      "lng": "74.014249",
+      "lat": 20.075391,
+      "lng": 74.014249,
       "mShortDescription": "वसती स्थान",
       "mLongDescription": "वसती स्थान. सर्वज्ञ श्रीचक्रधरप्रभू आपल्या परिभ्रमणाच्या पूर्वार्ध काळात येथे आल्यावर येथिल आदित्याच्या देवळातील चौकात सर्वज्ञांचा पुजावसर झाल्यावर रात्रीच्या मुक्कामानंतर दुसर्‍ या दिवशी निफाडला गेले. ",
       "Rough Work": "vasati",
       "image": "http://nagpurdental.com/SthaanImages/MoujeSukene"
     },
     {
-      "id": 69,
-      "District": "Nashik",
+      "id": "69",
+      "district": "Nashik",
       "mDistrict": "नाशिक",
       "name": "Niphad",
       "mLocation": "निफाड ",
@@ -885,8 +885,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Niphad"
     },
     {
-      "id": 70,
-      "District": "Nashik",
+      "id": "70",
+      "district": "Nashik",
       "mDistrict": "नाशिक",
       "name": "Niphad",
       "mLocation": "निफाड",
@@ -897,46 +897,46 @@
       "image": "http://nagpurdental.com/SthaanImages/Niphad"
     },
     {
-      "id": 71,
-      "District": "Nashik",
+      "id": "71",
+      "district": "Nashik",
       "mDistrict": "नाशिक",
       "name": "Shivre",
       "mLocation": "शिवरे",
-      "lat": "20.058384",
-      "lng": "74.129108",
+      "lat": 20.058384,
+      "lng": 74.129108,
       "mShortDescription": "मार्गी पव्हे आसन स्थान",
       "mLongDescription": "मार्गी पव्हे आसन स्थान. सर्वज्ञ श्रीचक्रधरप्रभू आपल्या परिभ्रमणाच्या पूर्वार्ध काळात निफाडहून येथे आल्यावर कादवा नदीच्या पुर्व काठावरिल खांडेभडाड या देवतेच्या देवळातील चौकात सर्वज्ञांना आरोगणा वगैरे विधींच्या नंतर थोडा वेळ विश्रांती घेउन पुढे नांदुरला गेले.",
       "Rough Work": "asan",
       "image": "http://nagpurdental.com/SthaanImages/Shivre"
     },
     {
-      "id": 72,
-      "District": "Nashik",
+      "id": "72",
+      "district": "Nashik",
       "mDistrict": "नाशिक",
       "name": "Nandur",
       "mLocation": "नांदूर",
-      "lat": "20.012250",
-      "lng": "74.152910",
+      "lat": 20.012250,
+      "lng": 74.152910,
       "mShortDescription": "वसती स्थान",
       "mLongDescription": "वसती स्थान. सर्वज्ञ श्रीचक्रधरप्रभू आपल्या परिभ्रमणाच्या पूर्वार्ध काळात नांदूर गावानजीकच  गोदावरीच्या काठी मध्यमेश्वराच्या देवळातील चौकात सर्वज्ञांचे आसन झाले. त्यानंतर सर्वज्ञांनी लिंगास स्पर्श केला व मग विडा वाहिला. जवळच्या चासामध्ये सर्वज्ञांनी नाथोबा, उपाध्ये, डखले वगैरे भक्तांसोबत जळक्रिडा केली. त्यानंतर ते गावामध्ये गेले गावातील आदित्याच्या मंदिरामध्ये एक रात्र होते. दुसर्‍ या दिवशी कानळसला गेले. ",
       "Rough Work": "vida vahane,asan,vasti",
       "image": "http://nagpurdental.com/SthaanImages/Nandur"
     },
     {
-      "id": 73,
-      "District": "Nashik",
+      "id": "73",
+      "district": "Nashik",
       "mDistrict": "नाशिक",
       "name": "Nandur (Madhyameshwar)",
       "mLocation": "नांदूर (मध्यमेश्वर)",
-      "lat": "20.014670",
-      "lng": "74.137525",
+      "lat": 20.014670,
+      "lng": 74.137525,
       "mShortDescription": "आसन स्थान",
       "mLongDescription": "आसन स्थान. मध्यमेश्वरा विडा वाहाणे. चासी जळक्रीडा. सर्वज्ञ श्रीचक्रधरप्रभू आपल्या परिभ्रमणाच्या पूर्वार्ध काळात नांदूर गावानजीकच  गोदावरीच्या काठी मध्यमेश्वराच्या देवळातील चौकात सर्वज्ञांचे आसन झाले. त्यानंतर सर्वज्ञांनी लिंगास स्पर्श केला व मग विडा वाहिला. जवळच्या चासामध्ये सर्वज्ञांनी नाथोबा, उपाध्ये, डखले वगैरे भक्तांसोबत जळक्रिडा केली. त्यानंतर ते गावामध्ये गेले गावातील आदित्याच्या मंदिरामध्ये एक रात्र होते. दुसर्‍ या दिवशी कानळसला गेले. ",
       "image": "http://nagpurdental.com/SthaanImages/Nandur(Madhyameshwar)"
     },
     {
-      "id": 74,
-      "District": "Nashik",
+      "id": "74",
+      "district": "Nashik",
       "mDistrict": "नाशिक",
       "name": "Kanlad (Kanlas)",
       "mLocation": "कानळस",
@@ -948,34 +948,34 @@
       "image": "http://nagpurdental.com/SthaanImages/Kanlad"
     },
     {
-      "id": 75,
-      "District": "Aurangabad",
+      "id": "75",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Purangaon",
       "mLocation": "पुरणगाव",
-      "lat": "19.791377",
-      "lng": "74.644375",
+      "lat": 19.791377,
+      "lng": 74.644375,
       "mShortDescription": "आसन स्थान",
       "mLongDescription": "आसन स्थान. सर्वज्ञ श्रीचक्रधरप्रभू आपल्या परिभ्रमणाच्या पूर्वार्ध काळात येथे सोमनाथाचे मंदिर होते त्या देवळाच्या चौकातील हे स्थान होय. दुसर्‍ या दिवशी ते सावखेड्याला गेले. ",
       "Rough Work": "asan",
       "image": "http://nagpurdental.com/SthaanImages/Purangaon"
     },
     {
-      "id": 76,
-      "District": "Aurangabad",
+      "id": "76",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Hingoni",
       "mLocation": "हिंगोणी",
-      "lat": "19.827010",
-      "lng": "74.664759",
+      "lat": 19.827010,
+      "lng": 74.664759,
       "mShortDescription": "वसती स्थान",
       "mLongDescription": "वसती स्थान. सर्वज्ञ श्रीचक्रधरप्रभू आपल्या परिभ्रमणाच्या पूर्वार्ध काळात पुणतांब्याहून येथे आले. एका रात्रीच्या वास्तव्यानंतर दुसर्‍ या दिवशी ते धोत्र्याला गेले.",
       "Rough Work": "vasati",
       "image": "http://nagpurdental.com/SthaanImages/Hingoni"
     },
     {
-      "id": 77,
-      "District": "Aurangabad",
+      "id": "77",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Savakhed (Ganga)",
       "mLocation": "सावखेड (गंगा)",
@@ -987,8 +987,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Savakhed%20(Ganga)"
     },
     {
-      "id": 78,
-      "District": "Aurangabad",
+      "id": "78",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Vanjargaon",
       "mLocation": "वांजरगाव",
@@ -1000,8 +1000,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Vanjargaon"
     },
     {
-      "id": 79,
-      "District": "Aurangabad",
+      "id": "79",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Chandegaon",
       "mLocation": "चांदेगाव",
@@ -1013,8 +1013,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Chandegaon"
     },
     {
-      "id": 80,
-      "District": "Aurangabad",
+      "id": "80",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Nagamthan",
       "mLocation": "नागमठाण",
@@ -1026,8 +1026,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Nagamthan"
     },
     {
-      "id": 81,
-      "District": "Aurangabad",
+      "id": "81",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Hamrapur",
       "mLocation": "हमरापुर",
@@ -1039,34 +1039,34 @@
       "image": "http://nagpurdental.com/SthaanImages/Hamrapur"
     },
     {
-      "id": 82,
-      "District": "Aurangabad",
+      "id": "82",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Bajathan",
       "mLocation": "बाजाठाण",
-      "lat": "19.675990",
-      "lng": "74.821755",
+      "lat": 19.675990,
+      "lng": 74.821755,
       "mShortDescription": "आसन स्थान",
       "mLongDescription": "आसन स्थान. सर्वज्ञ श्रीचक्रधरप्रभू आपल्या परिभ्रमणाच्या पूर्वार्ध काळात हमरापूरहून स्वामी येथे आल्यावर येथिल गोदेकाठच्या रामनाथाच्या देवळात सर्वज्ञांची पुजा आरोगणा झाल्यावर ते पुढे डोंबेग्रामला गेले. \r\n",
       "Rough Work": "asan",
       "image": "http://nagpurdental.com/SthaanImages/Bajathan"
     },
     {
-      "id": 83,
-      "District": "Aurangabad",
+      "id": "83",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Deogaon",
       "mLocation": "देवगाव",
-      "lat": "19.667146",
-      "lng": "74.833026",
+      "lat": 19.667146,
+      "lng": 74.833026,
       "mShortDescription": "विहरण स्थान",
       "mLongDescription": "1) विहरण स्थान 2) भिडी आसन 3) चौकी आसन 4) पंचगंगा नामकरण 5) देवगावचा ढग अवलोकन 6) भोजनता 7) साधा जळक्रीडा बोलावणे. सर्वज्ञ श्रीचक्रधरप्रभू आपल्या आपल्या डोंबेग्रामच्या वास्तव्यात असतांना सतत येथे विहणास येत असत. भिडी आसन, महादेवाच्या देवळाच्या चौकातील भोजन प्रसंगी आसनस्थ असतांना आउसा व इतर सर्व भक्त जण असतांना स्वामी बोलाच्या ओघात सहजच सांगतात कि या मंदिराच्या उद्यापनाच्या कार्यक्रमाच्या वेळी आम्ही येथेच पत्रावळी टाकुन भोजन केले होते. तेव्हा मंदिराच्या इतिहासाचा आढावा घेतल्यावर सर्वच भक्तजणांना अचंबा वाटला.एका ब्राम्हणाला पाच कन्या होत्या त्या गावातील लोक पंचरांडा म्हणून हिणवित असत. त्याची व्यथा त्याला सतत जाचित असे. त्यांचे पंचगंगा नामकरण करणे. ",
       "Rough Work": "viharan,bhidi asan,asan,bhojan",
       "image": "http://nagpurdental.com/SthaanImages/Deogaon"
     },
     {
-      "id": 84,
-      "District": "Aurangabad",
+      "id": "84",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Nevargaon",
       "mLocation": "नेवरगाव",
@@ -1078,8 +1078,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Nevargaon"
     },
     {
-      "id": 85,
-      "District": "Aurangabad",
+      "id": "85",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Kanadgaon",
       "mLocation": "कानडगाव",
@@ -1091,8 +1091,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Kanadgaon"
     },
     {
-      "id": 86,
-      "District": "Aurangabad",
+      "id": "86",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Mamdapur",
       "mLocation": "ममदापूर",
@@ -1104,8 +1104,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Mamdapur"
     },
     {
-      "id": 87,
-      "District": "Aurangabad",
+      "id": "87",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Bagdi",
       "mLocation": "बगडी",
@@ -1117,8 +1117,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Bagdi"
     },
     {
-      "id": 88,
-      "District": "Aurangabad",
+      "id": "88",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Jamgaon",
       "mLocation": "जामगाव",
@@ -1130,8 +1130,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Jamgaon"
     },
     {
-      "id": 89,
-      "District": "Aurangabad",
+      "id": "89",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Gangapur",
       "mLocation": "गंगापूर",
@@ -1143,8 +1143,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Gangapur"
     },
     {
-      "id": 90,
-      "District": "Aurangabad",
+      "id": "90",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Galnib June",
       "mLocation": "गळनिंब जुने",
@@ -1156,8 +1156,8 @@
       "image": "http://nagpurdental.com/SthaanImages/GalnibJune"
     },
     {
-      "id": 91,
-      "District": "Aurangabad",
+      "id": "91",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "June Agervadgaon",
       "mLocation": "जुने आगरवाडगाव",
@@ -1169,8 +1169,8 @@
       "image": "http://nagpurdental.com/SthaanImages/JuneAgervadgaon"
     },
     {
-      "id": 92,
-      "District": "Aurangabad",
+      "id": "92",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Paithan",
       "mLocation": "पैठण",
@@ -1182,8 +1182,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Paithan"
     },
     {
-      "id": 93,
-      "District": "Aurangabad",
+      "id": "93",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Khadkuli",
       "mLocation": "खडकुली",
@@ -1194,8 +1194,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Khadkuli"
     },
     {
-      "id": 94,
-      "District": "Aurangabad",
+      "id": "94",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Sangameshwar",
       "mLocation": "संगमेश्वर",
@@ -1206,8 +1206,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Sangameshwar"
     },
     {
-      "id": 95,
-      "District": "Aurangabad",
+      "id": "95",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Wadvali",
       "mLocation": "वडवाळी",
@@ -1219,8 +1219,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Wadvali"
     },
     {
-      "id": 96,
-      "District": "Aurangabad",
+      "id": "96",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Mayagaon",
       "mLocation": "मायगाव",
@@ -1232,8 +1232,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Mayagaon"
     },
     {
-      "id": 97,
-      "District": "Aurangabad",
+      "id": "97",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Navgaon",
       "mLocation": "नवगाव",
@@ -1245,8 +1245,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Navgaon"
     },
     {
-      "id": 98,
-      "District": "Aurangabad",
+      "id": "98",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Hiradpuri",
       "mLocation": "हिरडपुरी",
@@ -1258,8 +1258,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Hiradpuri"
     },
     {
-      "id": 99,
-      "District": "Aurangabad",
+      "id": "99",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Sawaldabara",
       "mLocation": "सावळदबारा",
@@ -1271,8 +1271,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Sawaldabara"
     },
     {
-      "id": 100,
-      "District": "Aurangabad",
+      "id": "100",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Rahatgaon",
       "mLocation": "रहाटगाव",
@@ -1284,8 +1284,8 @@
       "image": "http://nagpurdental.com/SthaanImages/RahatgaonAurangabad"
     },
     {
-      "id": 101,
-      "District": "Aurangabad",
+      "id": "101",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Kadethan Budruk",
       "mLocation": "कडेठाण बु.",
@@ -1297,8 +1297,8 @@
       "image": "http://nagpurdental.com/SthaanImages/KadethanBudruk"
     },
     {
-      "id": 102,
-      "District": "Aurangabad",
+      "id": "102",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Fulshevra",
       "mLocation": "फुलशिवरा",
@@ -1310,8 +1310,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Fulshevra"
     },
     {
-      "id": 103,
-      "District": "Aurangabad",
+      "id": "103",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Lasur",
       "mLocation": "लासुर",
@@ -1323,8 +1323,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Lasur"
     },
     {
-      "id": 104,
-      "District": "Aurangabad",
+      "id": "104",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Vitkheda",
       "mLocation": "विटखेडा",
@@ -1336,8 +1336,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Vitkheda"
     },
     {
-      "id": 105,
-      "District": "Aurangabad",
+      "id": "105",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Mategao",
       "mLocation": "माटेगाव",
@@ -1349,8 +1349,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Mategao"
     },
     {
-      "id": 106,
-      "District": "Aurangabad",
+      "id": "106",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Kannad",
       "mLocation": "कन्नड",
@@ -1362,8 +1362,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Kannad"
     },
     {
-      "id": 107,
-      "District": "Aurangabad",
+      "id": "107",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Hatnur",
       "mLocation": "हातनूर",
@@ -1375,8 +1375,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Hatnur"
     },
     {
-      "id": 108,
-      "District": "Aurangabad",
+      "id": "108",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Ellora",
       "mLocation": "वेरूळ",
@@ -1388,8 +1388,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Ellora"
     },
     {
-      "id": 109,
-      "District": "Aurangabad",
+      "id": "109",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Gadana",
       "mLocation": "गदाना",
@@ -1401,8 +1401,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Gadana"
     },
     {
-      "id": 110,
-      "District": "Aurangabad",
+      "id": "110",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Phulambri",
       "mLocation": "फुलंब्री",
@@ -1414,8 +1414,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Phulambri"
     },
     {
-      "id": 111,
-      "District": "Aurangabad",
+      "id": "111",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Nillod",
       "mLocation": "निल्लोड",
@@ -1427,8 +1427,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Nillod"
     },
     {
-      "id": 112,
-      "District": "Aurangabad",
+      "id": "112",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Sillod",
       "mLocation": "सिल्लोड",
@@ -1440,8 +1440,8 @@
       "image": "http://nagpurdental.com/SthaanImages/SthaanImages/Sillod"
     },
     {
-      "id": 113,
-      "District": "Aurangabad",
+      "id": "113",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Charner",
       "mLocation": "चारनेर",
@@ -1453,8 +1453,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Charner"
     },
     {
-      "id": 114,
-      "District": "Aurangabad",
+      "id": "114",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Karanjkhed",
       "mLocation": "करंजखेड",
@@ -1466,8 +1466,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Karanjkhed"
     },
     {
-      "id": 115,
-      "District": "Aurangabad",
+      "id": "115",
+      "district": "Aurangabad",
       "mDistrict": "औरंगाबाद",
       "name": "Saigavhan",
       "mLocation": "सायगव्हाण",
@@ -1479,8 +1479,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Saigavhan"
     },
     {
-      "id": 116,
-      "District": "Jalna",
+      "id": "116",
+      "district": "Jalna",
       "mDistrict": "जालना",
       "name": "Balegaon",
       "mLocation": "बळेगाव",
@@ -1492,8 +1492,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Balegaon"
     },
     {
-      "id": 117,
-      "District": "Jalna",
+      "id": "117",
+      "district": "Jalna",
       "mDistrict": "जालना",
       "name": "Apegaon",
       "mLocation": "आपेगाव",
@@ -1505,8 +1505,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Apegaon"
     },
     {
-      "id": 118,
-      "District": "Jalna",
+      "id": "118",
+      "district": "Jalna",
       "mDistrict": "जालना",
       "name": "Sashti Pimpalgaon",
       "mLocation": "साष्टीपिंपळगाव",
@@ -1518,8 +1518,8 @@
       "image": "http://nagpurdental.com/SthaanImages/SashtiPimpalgaon"
     },
     {
-      "id": 119,
-      "District": "Jalna",
+      "id": "119",
+      "district": "Jalna",
       "mDistrict": "जालना",
       "name": "Domalgaon",
       "mLocation": "डोमलगाव",
@@ -1531,8 +1531,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Domalgaon"
     },
     {
-      "id": 120,
-      "District": "Jalna",
+      "id": "120",
+      "district": "Jalna",
       "mDistrict": "जालना",
       "name": "Gandhari",
       "mLocation": "गांधारी",
@@ -1544,8 +1544,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Gandhari"
     },
     {
-      "id": 121,
-      "District": "Jalna",
+      "id": "121",
+      "district": "Jalna",
       "mDistrict": "जालना",
       "name": "Shahagad",
       "mLocation": "शहागड",
@@ -1557,8 +1557,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Shahagad"
     },
     {
-      "id": 122,
-      "District": "Jalna",
+      "id": "122",
+      "district": "Jalna",
       "mDistrict": "जालना",
       "name": "Sadegaon",
       "mLocation": "साडेगाव",
@@ -1570,8 +1570,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Sadegaon"
     },
     {
-      "id": 123,
-      "District": "Jalna",
+      "id": "123",
+      "district": "Jalna",
       "mDistrict": "जालना",
       "name": "Jogladevi",
       "mLocation": "जोगलादेवी",
@@ -1583,8 +1583,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Jogladevi"
     },
     {
-      "id": 124,
-      "District": "Jalna",
+      "id": "124",
+      "district": "Jalna",
       "mDistrict": "जालना",
       "name": "Ramasgaon",
       "mLocation": "रामसगाव",
@@ -1596,8 +1596,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Ramasgaon"
     },
     {
-      "id": 125,
-      "District": "Jalna",
+      "id": "125",
+      "district": "Jalna",
       "mDistrict": "जालना",
       "name": "Dhakephal Ahermal ",
       "mLocation": "ढाकेफळ अहिरमल",
@@ -1609,8 +1609,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Dhakephal%20Ahermal"
     },
     {
-      "id": 126,
-      "District": "Jalna",
+      "id": "126",
+      "district": "Jalna",
       "mDistrict": "जालना",
       "name": "Dhakephal",
       "mLocation": "ढाकेफळ",
@@ -1622,8 +1622,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Dhakephal%20Ahermal"
     },
     {
-      "id": 127,
-      "District": "Jalna",
+      "id": "127",
+      "district": "Jalna",
       "mDistrict": "जालना",
       "name": "Karadgaon",
       "mLocation": "करडगाव",
@@ -1635,8 +1635,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Karadgaon"
     },
     {
-      "id": 128,
-      "District": "Jalna",
+      "id": "128",
+      "district": "Jalna",
       "mDistrict": "जालना",
       "name": "Gadhe savargaon",
       "mLocation": "गाढेसावरगाव",
@@ -1648,8 +1648,8 @@
       "image": "http://nagpurdental.com/SthaanImages/GadheSavargaon"
     },
     {
-      "id": 129,
-      "District": "Jalna",
+      "id": "129",
+      "district": "Jalna",
       "mDistrict": "जालना",
       "name": "Bhatepuri",
       "mLocation": "भाटेपुरी",
@@ -1661,8 +1661,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Bhatepuri"
     },
     {
-      "id": 130,
-      "District": "Jalna",
+      "id": "130",
+      "district": "Jalna",
       "mDistrict": "जालना",
       "name": "Khanepuri",
       "mLocation": "खनेपुरी",
@@ -1674,8 +1674,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Khanepuri"
     },
     {
-      "id": 131,
-      "District": "Jalna",
+      "id": "131",
+      "district": "Jalna",
       "mDistrict": "जालना",
       "name": "Jalna Mastgarh",
       "mLocation": "जालना मस्तगढ",
@@ -1686,8 +1686,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Jalna"
     },
     {
-      "id": 132,
-      "District": "Jalna",
+      "id": "132",
+      "district": "Jalna",
       "mDistrict": "जालना",
       "name": "Jalna Nagavihir",
       "mLocation": "जालना नागाविहीर",
@@ -1698,8 +1698,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Jalna"
     },
     {
-      "id": 133,
-      "District": "Jalna",
+      "id": "133",
+      "district": "Jalna",
       "mDistrict": "जालना",
       "name": "Jalna Vanadev",
       "mLocation": "जालना वनदेव",
@@ -1710,8 +1710,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Jalna"
     },
     {
-      "id": 134,
-      "District": "Jalna",
+      "id": "134",
+      "district": "Jalna",
       "mDistrict": "जालना",
       "name": "Kajla",
       "mLocation": "काजळा",
@@ -1723,8 +1723,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Kajla"
     },
     {
-      "id": 135,
-      "District": "Jalna",
+      "id": "135",
+      "district": "Jalna",
       "mDistrict": "जालना",
       "name": "Dabhadi",
       "mLocation": "दाभाडी",
@@ -1736,8 +1736,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Dabhadi"
     },
     {
-      "id": 136,
-      "District": "Jalna",
+      "id": "136",
+      "district": "Jalna",
       "mDistrict": "जालना",
       "name": "Rajur",
       "mLocation": "राजूर",
@@ -1749,8 +1749,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Rajur"
     },
     {
-      "id": 137,
-      "District": "Jalna",
+      "id": "137",
+      "district": "Jalna",
       "mDistrict": "जालना",
       "name": "Bhokardan",
       "mLocation": "भोकरदन",
@@ -1762,8 +1762,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Bhokardan"
     },
     {
-      "id": 138,
-      "District": "Jalna",
+      "id": "138",
+      "district": "Jalna",
       "mDistrict": "जालना",
       "name": "Anva",
       "mLocation": "आन्वा",
@@ -1775,8 +1775,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Anva"
     },
     {
-      "id": 139,
-      "District": "Jalna",
+      "id": "139",
+      "district": "Jalna",
       "mDistrict": "जालना",
       "name": "Pimpalgaon (Renukai)",
       "mLocation": "पिंपळगाव (रेणुकाई)",
@@ -1788,8 +1788,8 @@
       "image": "http://nagpurdental.com/SthaanImages/PimpalgaonRenukai"
     },
     {
-      "id": 140,
-      "District": "Jalna",
+      "id": "140",
+      "district": "Jalna",
       "mDistrict": "जालना",
       "name": "Padmavati",
       "mLocation": "पदमावती",
@@ -1801,8 +1801,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Padmavati"
     },
     {
-      "id": 141,
-      "District": "Jalna",
+      "id": "141",
+      "district": "Jalna",
       "mDistrict": "जालना",
       "name": " Valsavangi",
       "mLocation": "वालसांगवी",
@@ -1814,8 +1814,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Valsavangi"
     },
     {
-      "id": 142,
-      "District": "Jalna",
+      "id": "142",
+      "district": "Jalna",
       "mDistrict": "जालना",
       "name": "Jalicha Deo",
       "mLocation": "जाळीचा देव",
@@ -1827,8 +1827,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Jalicha%20Dev"
     },
     {
-      "id": 143,
-      "District": "Nanded",
+      "id": "143",
+      "district": "Nanded",
       "mDistrict": "नांदेड",
       "name": "Gopalchavadi (Limbgaon)",
       "mLocation": "गोपाळचावडी (लिंबगाव)",
@@ -1840,8 +1840,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Gopalchavadi%20(Limbgaon)"
     },
     {
-      "id": 144,
-      "District": "Nanded",
+      "id": "144",
+      "district": "Nanded",
       "mDistrict": "नांदेड",
       "name": "Nanded (Naleshwar)",
       "mLocation": "नांदेड (नाळेश्वर)",
@@ -1853,8 +1853,8 @@
       "image": "http://nagpurdental.com/SthaanImages/NandedNaleshwar"
     },
     {
-      "id": 145,
-      "District": "Nanded",
+      "id": "145",
+      "district": "Nanded",
       "mDistrict": "नांदेड",
       "name": "Nanded (Bhaveshwar)",
       "mLocation": "नांदेड (भावेश्वर)",
@@ -1866,8 +1866,8 @@
       "image": "http://nagpurdental.com/SthaanImages/NandedBhaveshwar"
     },
     {
-      "id": 146,
-      "District": "Nanded",
+      "id": "146",
+      "district": "Nanded",
       "mDistrict": "नांदेड",
       "name": "Nanded (Gorakshan)",
       "mLocation": "नांदेड (गोरक्षण)",
@@ -1878,8 +1878,8 @@
       "image": "http://nagpurdental.com/SthaanImages/NandedGorakshan"
     },
     {
-      "id": 147,
-      "District": "Nanded",
+      "id": "147",
+      "district": "Nanded",
       "mDistrict": "नांदेड",
       "name": "Gopalchavadi (Cidco)",
       "mLocation": "गोपाळचावडी (सिडको)",
@@ -1891,8 +1891,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Gopalchavadi%20(Cidco)"
     },
     {
-      "id": 148,
-      "District": "Nanded",
+      "id": "148",
+      "district": "Nanded",
       "mDistrict": "नांदेड",
       "name": "Raher",
       "mLocation": "राहेर",
@@ -1904,8 +1904,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Raher"
     },
     {
-      "id": 149,
-      "District": "Nanded",
+      "id": "149",
+      "district": "Nanded",
       "mDistrict": "नांदेड",
       "name": "Mahur (DevDeveshwar)",
       "mLocation": "माहूर( देवदेवेश्वर)",
@@ -1917,8 +1917,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Mahur"
     },
     {
-      "id": 150,
-      "District": "Nanded",
+      "id": "150",
+      "district": "Nanded",
       "mDistrict": "नांदेड",
       "name": "Mahur (Jalkrida)",
       "mLocation": "माहूर (जळक्रिडा)",
@@ -1929,8 +1929,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Mahur"
     },
     {
-      "id": 151,
-      "District": "Nanded",
+      "id": "151",
+      "district": "Nanded",
       "mDistrict": "नांदेड",
       "name": "Mahur (Vinzuwala Talav)",
       "mLocation": "माहूर (विंझूवाळा तलाव)",
@@ -1941,8 +1941,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Mahur"
     },
     {
-      "id": 152,
-      "District": "Nanded",
+      "id": "152",
+      "district": "Nanded",
       "mDistrict": "नांदेड",
       "name": "Mahur (Vandev)",
       "mLocation": "माहूर (वनदेव)",
@@ -1953,8 +1953,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Mahur"
     },
     {
-      "id": 153,
-      "District": "Nanded",
+      "id": "153",
+      "district": "Nanded",
       "mDistrict": "नांदेड",
       "name": "Mahur  (Dohi Deva Bheti Sthaan)",
       "mLocation": "माहूर (दोहि देवा भेटी)",
@@ -1965,8 +1965,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Mahur"
     },
     {
-      "id": 154,
-      "District": "Beed",
+      "id": "154",
+      "district": "Beed",
       "mDistrict": "बीड",
       "name": "Keli Pimpalgaon",
       "mLocation": "केळीपिंपळगाव",
@@ -1978,8 +1978,8 @@
       "image": "http://nagpurdental.com/SthaanImages/KeliPimpalgaon"
     },
     {
-      "id": 155,
-      "District": "Beed",
+      "id": "155",
+      "district": "Beed",
       "mDistrict": "बीड",
       "name": "Waki",
       "mLocation": "वाकी",
@@ -1991,8 +1991,8 @@
       "image": "http://nagpurdental.com/SthaanImages/WakiBeed"
     },
     {
-      "id": 156,
-      "District": "Beed",
+      "id": "156",
+      "district": "Beed",
       "mDistrict": "बीड",
       "name": "Shiral",
       "mLocation": "शिराळ",
@@ -2004,8 +2004,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Shiral"
     },
     {
-      "id": 157,
-      "District": "Beed",
+      "id": "157",
+      "district": "Beed",
       "mDistrict": "बीड",
       "name": "Pargaon (Jogeshwari)",
       "mLocation": "पारगाव (जोगेश्वरी)",
@@ -2017,8 +2017,8 @@
       "image": "http://nagpurdental.com/SthaanImages/PargaonJogeshwari"
     },
     {
-      "id": 158,
-      "District": "Beed",
+      "id": "158",
+      "district": "Beed",
       "mDistrict": "बीड",
       "name": "Ashti",
       "mLocation": "आष्टी",
@@ -2030,8 +2030,8 @@
       "image": "http://nagpurdental.com/SthaanImages/AshtiBeed"
     },
     {
-      "id": 159,
-      "District": "Beed",
+      "id": "159",
+      "district": "Beed",
       "mDistrict": "बीड",
       "name": "Matkuli",
       "mLocation": "मातकुळी",
@@ -2043,8 +2043,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Matkuli"
     },
     {
-      "id": 160,
-      "District": "Beed",
+      "id": "160",
+      "district": "Beed",
       "mDistrict": "बीड",
       "name": "Sautada (Ramdara)",
       "mLocation": "सौताडा (रामदरा)",
@@ -2056,8 +2056,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Sautada%20(Ramdara)"
     },
     {
-      "id": 161,
-      "District": "Beed",
+      "id": "161",
+      "district": "Beed",
       "mDistrict": "बीड",
       "name": "Patoda",
       "mLocation": "पाटोदा",
@@ -2069,8 +2069,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Patoda"
     },
     {
-      "id": 162,
-      "District": "Beed",
+      "id": "162",
+      "district": "Beed",
       "mDistrict": "बीड",
       "name": "Limba (Ganesh)",
       "mLocation": "लिंबा (गणेश)",
@@ -2082,8 +2082,8 @@
       "image": "http://nagpurdental.com/SthaanImages/LimbaGanesh"
     },
     {
-      "id": 163,
-      "District": "Beed",
+      "id": "163",
+      "district": "Beed",
       "mDistrict": "बीड",
       "name": "Pohicha Deo",
       "mLocation": "पोहीचा देव",
@@ -2095,8 +2095,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Pohicha%20Dev"
     },
     {
-      "id": 164,
-      "District": "Beed",
+      "id": "164",
+      "district": "Beed",
       "mDistrict": "बीड",
       "name": "Pali",
       "mLocation": "पाली",
@@ -2108,8 +2108,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Pali"
     },
     {
-      "id": 165,
-      "District": "Beed",
+      "id": "165",
+      "district": "Beed",
       "mDistrict": "बीड",
       "name": "Beed",
       "mLocation": "बीड",
@@ -2121,8 +2121,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Beed"
     },
     {
-      "id": 166,
-      "District": "Beed",
+      "id": "166",
+      "district": "Beed",
       "mDistrict": "बीड",
       "name": "Kolgaon",
       "mLocation": "कोळगाव",
@@ -2134,47 +2134,47 @@
       "image": "http://nagpurdental.com/SthaanImages/Kolgaon"
     },
     {
-      "id": 167,
-      "District": "Beed",
+      "id": "167",
+      "district": "Beed",
       "mDistrict": "बीड",
       "name": "Shekta",
       "mLocation": "शेकटा",
-      "lat": "19.212659",
-      "lng": "75.556455",
+      "lat": 19.212659,
+      "lng": 75.556455,
       "mShortDescription": "अवस्थान स्थान ",
       "mLongDescription": "अवस्थान स्थान. सर्वज्ञ श्रीचक्रधरप्रभू आपल्या परिभ्रमणाच्या उत्तरार्ध काळात चकलांब्याहून येथे आले त्यांचे येथे वंकनाथ महादेवाच्या मंदिरात 5 दिवस वास्तव्य होते. ",
       "Rough Work": "avsthan,madane,",
       "image": "http://nagpurdental.com/SthaanImages/Shekta"
     },
     {
-      "id": 168,
-      "District": "Beed",
+      "id": "168",
+      "district": "Beed",
       "mDistrict": "बीड",
       "name": "Chaklamba",
       "mLocation": "चकलांबा",
-      "lat": "19.224470",
-      "lng": "75.479662",
+      "lat": 19.224470,
+      "lng": 75.479662,
       "mShortDescription": "अवस्थान स्थान ",
       "mLongDescription": "1) अवस्थान स्थान, 2) जगतीचा दारवंठा, 3) आउसा भेटी, रूदन संबोखन, 4) भटा आउसा संबोखन, 5) वसतीस्थान. सर्वज्ञ श्रीचक्रधरप्रभू आपल्या परिभ्रमणाच्या उत्तरार्ध काळात पहिल्या वेळेस नागलवाडीवरून येथे आले. त्यावेळेस येथे तिकवनारायणाचे मंदिर होते येथेच गोसावीयांचे तीन दिवस वास्तव्य होते. त्यानंतर एकवीरा देवीच्या मंदिरात 20 दिवस अवस्थान झाले. वसतीस्थानाचा जेथे निर्देश केला गेला त्या महादेवाच्या देवळाला सर्वज्ञांच्या वेळेस पंचलिग अर्थात पंचाळेश्वर असे संबोधण्यात येत होते. ",
       "Rough Work": "jagticha darvantha,",
       "image": "http://nagpurdental.com/SthaanImages/Chaklamba"
     },
     {
-      "id": 169,
-      "District": "Beed",
+      "id": "169",
+      "district": "Beed",
       "mDistrict": "बीड",
       "name": "Pargaon (Ghogas)",
       "mLocation": "पारगाव (घोगस)",
-      "lat": "19.201712",
-      "lng": "75.425665",
+      "lat": 19.201712,
+      "lng": 75.425665,
       "mShortDescription": "वसती स्थान ",
       "mLongDescription": "वसती स्थान ",
       "Rough Work": "vasati",
       "image": "http://nagpurdental.com/SthaanImages/Pargaon%20(Ghogas)"
     },
     {
-      "id": 170,
-      "District": "Beed",
+      "id": "170",
+      "district": "Beed",
       "mDistrict": "बीड",
       "name": "Rokda (Kada)",
       "mLocation": "रोकडा (कडा)",
@@ -2186,8 +2186,8 @@
       "image": "http://nagpurdental.com/SthaanImages/RokdaKada"
     },
     {
-      "id": 171,
-      "District": "Beed",
+      "id": "171",
+      "district": "Beed",
       "mDistrict": "बीड",
       "name": "Panchaleshwar",
       "mLocation": "पांचाळेश्वर",
@@ -2199,8 +2199,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Panchaleshwar"
     },
     {
-      "id": 172,
-      "District": "Beed",
+      "id": "172",
+      "district": "Beed",
       "mDistrict": "बीड",
       "name": "Khamgaon",
       "mLocation": "खामगाव",
@@ -2212,8 +2212,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Khamgaon"
     },
     {
-      "id": 173,
-      "District": "Beed",
+      "id": "173",
+      "district": "Beed",
       "mDistrict": "बीड",
       "name": "BagPimpalgaon",
       "mLocation": "बागपिंपळगाव",
@@ -2225,8 +2225,8 @@
       "image": "http://nagpurdental.com/SthaanImages/BagPimpalgaon"
     },
     {
-      "id": 174,
-      "District": "Beed",
+      "id": "174",
+      "district": "Beed",
       "mDistrict": "बीड",
       "name": "Gevrai",
       "mLocation": "गेवराई",
@@ -2238,8 +2238,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Gevrai"
     },
     {
-      "id": 175,
-      "District": "Beed",
+      "id": "175",
+      "district": "Beed",
       "mDistrict": "बीड",
       "name": "Sangam Jalgaon",
       "mLocation": "संगमजळगाव",
@@ -2251,8 +2251,8 @@
       "image": "http://nagpurdental.com/SthaanImages/SangamJalgaon"
     },
     {
-      "id": 176,
-      "District": "Beed",
+      "id": "176",
+      "district": "Beed",
       "mDistrict": "बीड",
       "name": "Agar Nandur",
       "mLocation": "आगर नांदूर",
@@ -2263,8 +2263,8 @@
       "image": "http://nagpurdental.com/SthaanImages/AgarNandur"
     },
     {
-      "id": 177,
-      "District": "Beed",
+      "id": "177",
+      "district": "Beed",
       "mDistrict": "बीड",
       "name": "Mirgaon",
       "mLocation": "मिरगाव",
@@ -2276,8 +2276,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Mirgaon"
     },
     {
-      "id": 178,
-      "District": "Beed",
+      "id": "178",
+      "district": "Beed",
       "mDistrict": "बीड",
       "name": "Pandhri (Papvinashani)",
       "mLocation": "पांढरी (पापविनाशनी)",
@@ -2289,8 +2289,8 @@
       "image": "http://nagpurdental.com/SthaanImages/PandhriPapvinashani"
     },
     {
-      "id": 179,
-      "District": "Jalgaon",
+      "id": "179",
+      "district": "Jalgaon",
       "mDistrict": "जळगाव",
       "name": "Waghli",
       "mLocation": "वाघळी",
@@ -2302,8 +2302,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Waghli"
     },
     {
-      "id": 180,
-      "District": "Jalgaon",
+      "id": "180",
+      "district": "Jalgaon",
       "mDistrict": "जळगाव",
       "name": "Kanashi",
       "mLocation": "कनाशी",
@@ -2314,8 +2314,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Kanashi"
     },
     {
-      "id": 181,
-      "District": "Jalgaon",
+      "id": "181",
+      "district": "Jalgaon",
       "mDistrict": "जळगाव",
       "name": "Kanashi (Nandani)",
       "mLocation": "कनाशी (नांदणी)",
@@ -2326,8 +2326,8 @@
       "image": "http://nagpurdental.com/SthaanImages/KanashiNandani"
     },
     {
-      "id": 182,
-      "District": "Jalgaon",
+      "id": "182",
+      "district": "Jalgaon",
       "mDistrict": "जळगाव",
       "name": "Bhadgaon",
       "mLocation": "भडगाव",
@@ -2339,8 +2339,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Bhadgaon"
     },
     {
-      "id": 183,
-      "District": "Jalgaon",
+      "id": "183",
+      "district": "Jalgaon",
       "mDistrict": "जळगाव",
       "name": "Bhadgaon",
       "mLocation": "भडगाव",
@@ -2351,8 +2351,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Bhadgaon"
     },
     {
-      "id": 184,
-      "District": "Jalgaon",
+      "id": "184",
+      "district": "Jalgaon",
       "mDistrict": "जळगाव",
       "name": "Pachora",
       "mLocation": "पाचोरा",
@@ -2364,8 +2364,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Pachora"
     },
     {
-      "id": 185,
-      "District": "Jalgaon",
+      "id": "185",
+      "district": "Jalgaon",
       "mDistrict": "जळगाव",
       "name": "Shendurni",
       "mLocation": "शेंदुर्णी",
@@ -2377,8 +2377,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Shendurni"
     },
     {
-      "id": 186,
-      "District": "Jalgaon",
+      "id": "186",
+      "district": "Jalgaon",
       "mDistrict": "जळगाव",
       "name": "Shendurni",
       "mLocation": "शेंदुर्णी",
@@ -2389,8 +2389,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Shendurni"
     },
     {
-      "id": 187,
-      "District": "Jalgaon",
+      "id": "187",
+      "district": "Jalgaon",
       "mDistrict": "जळगाव",
       "name": "Changdeo",
       "mLocation": "चांगदेव",
@@ -2402,8 +2402,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Changdeo"
     },
     {
-      "id": 188,
-      "District": "Jalgaon",
+      "id": "188",
+      "district": "Jalgaon",
       "mDistrict": "जळगाव",
       "name": "Hartale",
       "mLocation": "हरताळे",
@@ -2415,8 +2415,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Hartale"
     },
     {
-      "id": 189,
-      "District": "Buldhana",
+      "id": "189",
+      "district": "Buldhana",
       "mDistrict": "बुलढाणा",
       "name": "Masrul",
       "mLocation": "मासरुळ",
@@ -2428,8 +2428,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Masrul"
     },
     {
-      "id": 190,
-      "District": "Buldhana",
+      "id": "190",
+      "district": "Buldhana",
       "mDistrict": "बुलढाणा",
       "name": "Dodhra",
       "mLocation": "डोढरा",
@@ -2441,8 +2441,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Dodhra"
     },
     {
-      "id": 191,
-      "District": "Buldhana",
+      "id": "191",
+      "district": "Buldhana",
       "mDistrict": "बुलढाणा",
       "name": "Dodhra",
       "mLocation": "डोढरा",
@@ -2453,21 +2453,21 @@
       "image": "http://nagpurdental.com/SthaanImages/Dodhra"
     },
     {
-      "id": 192,
-      "District": "Buldhana",
+      "id": "192",
+      "district": "Buldhana",
       "mDistrict": "बुलढाणा",
       "name": "Shendurjan",
       "mLocation": "शेंदुरजन",
-      "lat": "20.129117",
-      "lng": "76.385641",
+      "lat": 20.129117,
+      "lng": 76.385641,
       "mShortDescription": "आसन स्थान ",
       "mLongDescription": "1)आसन स्थान, 2, 3, 4, 5) आसन स्थाने, 6) दारसंका धरून भितरी अवलोकण, 7) आसन. सर्वज्ञ श्रीचक्रधरप्रभू आपल्या परिभ्रमणाच्या पूर्वार्धात 2 वेळा येथे आले. पहिल्या वेळेस ते पैठणहून रिध्दपुरला जातांना राजुरहुन शेंदुरजनला आले व दुसर्‍ या वेळेस रिध्दपुरहून परतल्यावर मेहकरहून शेंदुरजनला आले. या दोन्ही वेळेस त्यांचे ब्राह्मणाच्या आवारी एकेक रात्र वास्तव्य होते. पहिल्या वेळेस ते येथुन मेहकरला गेले आणि दुसर्‍ या वेळेस कोळगावला गेले. ",
       "Rough Work": "darsankaavalokan asan ",
       "image": "http://nagpurdental.com/SthaanImages/Shendurjan"
     },
     {
-      "id": 193,
-      "District": "Buldhana",
+      "id": "193",
+      "district": "Buldhana",
       "mDistrict": "बुलढाणा",
       "name": "Lonar",
       "mLocation": "लोणार",
@@ -2478,8 +2478,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Lonar"
     },
     {
-      "id": 194,
-      "District": "Buldhana",
+      "id": "194",
+      "district": "Buldhana",
       "mDistrict": "बुलढाणा",
       "name": "Lonar (Gomukh)",
       "mLocation": "लोणार (गोमुख)",
@@ -2490,8 +2490,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Lonar"
     },
     {
-      "id": 195,
-      "District": "Buldhana",
+      "id": "195",
+      "district": "Buldhana",
       "mDistrict": "बुलढाणा",
       "name": "Lonar (Kamalja)",
       "mLocation": "लोणार (कमळजा)",
@@ -2502,8 +2502,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Lonar"
     },
     {
-      "id": 196,
-      "District": "Buldhana",
+      "id": "196",
+      "district": "Buldhana",
       "mDistrict": "बुलढाणा",
       "name": "Lonar (Kumareshwar)",
       "mLocation": "लोणार (कुमारेश्वर)",
@@ -2514,8 +2514,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Lonar"
     },
     {
-      "id": 197,
-      "District": "Buldhana",
+      "id": "197",
+      "district": "Buldhana",
       "mDistrict": "बुलढाणा",
       "name": "Shara",
       "mLocation": "शारा",
@@ -2527,8 +2527,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Shara"
     },
     {
-      "id": 198,
-      "District": "Buldhana",
+      "id": "198",
+      "district": "Buldhana",
       "mDistrict": "बुलढाणा",
       "name": "Weni",
       "mLocation": "वेणी",
@@ -2540,8 +2540,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Weni"
     },
     {
-      "id": 199,
-      "District": "Buldhana",
+      "id": "199",
+      "district": "Buldhana",
       "mDistrict": "बुलढाणा",
       "name": "Mehkar",
       "mLocation": "मेहकर",
@@ -2553,8 +2553,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Mehkar"
     },
     {
-      "id": 200,
-      "District": "Buldhana",
+      "id": "200",
+      "district": "Buldhana",
       "mDistrict": "बुलढाणा",
       "name": "Anjni Bu.",
       "mLocation": "अंजनी बु.",
@@ -2566,8 +2566,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Anjani"
     },
     {
-      "id": 201,
-      "District": "Buldhana",
+      "id": "201",
+      "district": "Buldhana",
       "mDistrict": "बुलढाणा",
       "name": "Vishvi (Isvi)",
       "mLocation": "इसवी",
@@ -2579,8 +2579,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Vishvi%20(Isvi)"
     },
     {
-      "id": 202,
-      "District": "Buldhana",
+      "id": "202",
+      "district": "Buldhana",
       "mDistrict": "बुलढाणा",
       "name": "Chinchale",
       "mLocation": "चिंचाळे",
@@ -2592,8 +2592,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Chinchale"
     },
     {
-      "id": 203,
-      "District": "Akola",
+      "id": "203",
+      "district": "Akola",
       "mDistrict": "अकोला",
       "name": "Ghatali Ghatatil Sthaan)",
       "mLocation": "घटाळी (घाटातील स्थान)",
@@ -2605,8 +2605,8 @@
       "image": "http://nagpurdental.com/SthaanImages/GhataliGhatatilSthaan"
     },
     {
-      "id": 204,
-      "District": "Akola",
+      "id": "204",
+      "district": "Akola",
       "mDistrict": "अकोला",
       "name": "Alegaon",
       "mLocation": "आलेगाव",
@@ -2618,8 +2618,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Alegaon"
     },
     {
-      "id": 205,
-      "District": "Akola",
+      "id": "205",
+      "district": "Akola",
       "mDistrict": "अकोला",
       "name": "Alegaon",
       "mLocation": "आलेगाव",
@@ -2630,8 +2630,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Alegaon"
     },
     {
-      "id": 206,
-      "District": "Akola",
+      "id": "206",
+      "district": "Akola",
       "mDistrict": "अकोला",
       "name": "Patur",
       "mLocation": "पातुर",
@@ -2643,8 +2643,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Patur"
     },
     {
-      "id": 207,
-      "District": "Akola",
+      "id": "207",
+      "district": "Akola",
       "mDistrict": "अकोला",
       "name": "Barshi Takli",
       "mLocation": "बार्शीटाकळी",
@@ -2656,8 +2656,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Barshi%20Takli"
     },
     {
-      "id": 208,
-      "District": "Akola",
+      "id": "208",
+      "district": "Akola",
       "mDistrict": "अकोला",
       "name": "Ghatali",
       "mLocation": "घटाळी",
@@ -2669,8 +2669,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Ghatali"
     },
     {
-      "id": 209,
-      "District": "Akola",
+      "id": "209",
+      "district": "Akola",
       "mDistrict": "अकोला",
       "name": "Yelwan",
       "mLocation": "येळवण ",
@@ -2682,8 +2682,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Yelwan"
     },
     {
-      "id": 210,
-      "District": "Akola",
+      "id": "210",
+      "district": "Akola",
       "mDistrict": "अकोला",
       "name": "Mana",
       "mLocation": "माना",
@@ -2695,8 +2695,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Mana"
     },
     {
-      "id": 211,
-      "District": "Akola",
+      "id": "211",
+      "district": "Akola",
       "mDistrict": "अकोला",
       "name": "Lakhpuri",
       "mLocation": "लाखपुरी",
@@ -2708,8 +2708,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Lakhpuri"
     },
     {
-      "id": 212,
-      "District": "Washim",
+      "id": "212",
+      "district": "Washim",
       "mDistrict": "वाशीम",
       "name": "Maglur Pir",
       "mLocation": "मंगरूळपीर ",
@@ -2721,8 +2721,8 @@
       "image": "http://nagpurdental.com/SthaanImages/ManglurPir"
     },
     {
-      "id": 213,
-      "District": "Amravati",
+      "id": "213",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Shingnapur",
       "mLocation": "शिंगणापूर",
@@ -2734,8 +2734,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Shingnapur"
     },
     {
-      "id": 214,
-      "District": "Amravati",
+      "id": "214",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Kholapur",
       "mLocation": "खोलापूर",
@@ -2747,8 +2747,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Kholapur"
     },
     {
-      "id": 215,
-      "District": "Amravati",
+      "id": "215",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Waki",
       "mLocation": "वाकी",
@@ -2760,12 +2760,12 @@
       "image": "http://nagpurdental.com/SthaanImages/Waki%20(Amravati)"
     },
     {
-      "id": 216,
-      "District": "Amravati",
+      "id": "216",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Ashti",
       "mLocation": "आष्टी",
-      "lat": "21.055689,",
+      "lat": 21.055689,
       "lng": 77.642384,
       "mShortDescription": "वसती स्थान",
       "mLongDescription": "1) वसती स्थान, 2) पटीशाळेवरील आसनस्थान. सर्वज्ञ श्रीचक्रधरप्रभू आपल्या परिभ्रमणाच्या पूवार्ध काळात टाकरखेडयाहून येथे आले तेव्हा त्यांचे गावातील महालक्ष्मीच्या देवळात एक रात्र वास्तव्य झाले. पुढे ते वाठोडयाला गेले. आपल्या जवळील वेचु संपल्याच्या भक्तांच्या सांगण्यावरून सर्वज्ञांनी चांगदेव भटांना आपला आडकित्ता 16 दामाला गहाण ठेवुन सामान आणण्यास सांगीतले. यावर बाइसांनी सर्वज्ञांना एकच आडकित्ता असल्यामुळे मना केले असता सर्वज्ञ म्हणाले कि बाई या देवतेखाली सात लोखंडाच्या द्रव्याने भरलेल्या कढाया आहेत, परंतु त्या काढण्याची आमची इच्छा नाही.",
@@ -2773,8 +2773,8 @@
       "image": "http://nagpurdental.com/SthaanImages/AshtiAmravati"
     },
     {
-      "id": 217,
-      "District": "Amravati",
+      "id": "217",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Anjangao (Bari)",
       "mLocation": "अंजनगाव (बारी)",
@@ -2786,8 +2786,8 @@
       "image": "http://nagpurdental.com/SthaanImages/AnjangaonBari"
     },
     {
-      "id": 218,
-      "District": "Amravati",
+      "id": "218",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Bhankhedi",
       "mLocation": "भानखेडी",
@@ -2799,8 +2799,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Bhankhedi"
     },
     {
-      "id": 219,
-      "District": "Amravati",
+      "id": "219",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Rahatgaon",
       "mLocation": "रहाटगाव",
@@ -2812,8 +2812,8 @@
       "image": "http://nagpurdental.com/SthaanImages/RahatgaonAmravati"
     },
     {
-      "id": 220,
-      "District": "Amravati",
+      "id": "220",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Nandgaon (Peth)",
       "mLocation": "नांदगाव (पेठ)",
@@ -2825,8 +2825,8 @@
       "image": "http://nagpurdental.com/SthaanImages/NandgaonPeth"
     },
     {
-      "id": 221,
-      "District": "Amravati",
+      "id": "221",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Matulgram",
       "mLocation": "मातुळग्राम",
@@ -2838,8 +2838,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Matulgram"
     },
     {
-      "id": 222,
-      "District": "Amravati",
+      "id": "222",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Pujda",
       "mLocation": "पुजदा",
@@ -2851,8 +2851,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Pujda"
     },
     {
-      "id": 223,
-      "District": "Amravati",
+      "id": "223",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Antor",
       "mLocation": "अन्तोर",
@@ -2864,8 +2864,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Antor"
     },
     {
-      "id": 224,
-      "District": "Amravati",
+      "id": "224",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Katsur",
       "mLocation": "काटसूर",
@@ -2877,8 +2877,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Katsur"
     },
     {
-      "id": 225,
-      "District": "Amravati",
+      "id": "225",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Belora",
       "mLocation": "बेलोरा",
@@ -2890,8 +2890,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Belora"
     },
     {
-      "id": 226,
-      "District": "Amravati",
+      "id": "226",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Ridhpur (Rajmath)",
       "mLocation": "रिद्धपूर (राजमठ)",
@@ -2903,8 +2903,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Ridhpur"
     },
     {
-      "id": 227,
-      "District": "Amravati",
+      "id": "227",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Ridhpur (Vajeshwar)",
       "mLocation": "रिद्धपूर (वाजेश्वर)",
@@ -2915,8 +2915,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Ridhpur"
     },
     {
-      "id": 228,
-      "District": "Amravati",
+      "id": "228",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Ridhpur (Bhairavburuj)",
       "mLocation": "रिद्धपूर (भैरवबुरूज)",
@@ -2927,8 +2927,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Ridhpur"
     },
     {
-      "id": 229,
-      "District": "Amravati",
+      "id": "229",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Ridhpur (Dwarka Darshan)",
       "mLocation": "रिद्धपूर (द्वारका दर्शन)",
@@ -2939,8 +2939,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Ridhpur"
     },
     {
-      "id": 230,
-      "District": "Amravati",
+      "id": "230",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Ridhpur (Gudha Sthaan)",
       "mLocation": "रिद्धपूर (गूढा स्थान)",
@@ -2951,8 +2951,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Ridhpur"
     },
     {
-      "id": 231,
-      "District": "Amravati",
+      "id": "231",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Ridhpur (Kshetrakhaj)",
       "mLocation": "रिद्धपूर (क्षेत्रखाज)",
@@ -2963,8 +2963,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Ridhpur"
     },
     {
-      "id": 232,
-      "District": "Amravati",
+      "id": "232",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Ridhpur (Pivaltaloli)",
       "mLocation": "रिद्धपूर (पिवळतळोली)",
@@ -2975,8 +2975,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Ridhpur"
     },
     {
-      "id": 233,
-      "District": "Amravati",
+      "id": "233",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Dabheri",
       "mLocation": "दाभेरी",
@@ -2988,8 +2988,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Dabheri"
     },
     {
-      "id": 234,
-      "District": "Amravati",
+      "id": "234",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Talegaon (Shri Chakra. Sthaan)",
       "mLocation": "तळेगाव (श्रीचक्र. स्थान)",
@@ -3001,8 +3001,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Talegaon"
     },
     {
-      "id": 235,
-      "District": "Amravati",
+      "id": "235",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Talegaon (Shri Go. Sthaan)",
       "mLocation": "तळेगाव (श्रीगो. स्थान)",
@@ -3013,8 +3013,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Talegaon"
     },
     {
-      "id": 236,
-      "District": "Amravati",
+      "id": "236",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Brahmanwada (Dive)",
       "mLocation": "ब्राह्मणवाडा (दिवे)",
@@ -3026,8 +3026,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Brahmanvada%20Dive"
     },
     {
-      "id": 237,
-      "District": "Amravati",
+      "id": "237",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Boraj",
       "mLocation": "बोरज",
@@ -3039,8 +3039,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Boraj"
     },
     {
-      "id": 238,
-      "District": "Amravati",
+      "id": "238",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Najarpur",
       "mLocation": "नझरपूर",
@@ -3052,8 +3052,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Najarpur"
     },
     {
-      "id": 239,
-      "District": "Amravati",
+      "id": "239",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Kharala",
       "mLocation": "खराळा",
@@ -3065,8 +3065,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Kharala"
     },
     {
-      "id": 240,
-      "District": "Amravati",
+      "id": "240",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Talwel",
       "mLocation": "तळवेल",
@@ -3078,8 +3078,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Talwel"
     },
     {
-      "id": 241,
-      "District": "Amravati",
+      "id": "241",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Sawur",
       "mLocation": "साउर",
@@ -3091,8 +3091,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Sawur"
     },
     {
-      "id": 242,
-      "District": "Amravati",
+      "id": "242",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Takarkheda (Sambhu)",
       "mLocation": "टाकरखेडा( संभू)",
@@ -3104,8 +3104,8 @@
       "image": "http://nagpurdental.com/SthaanImages/TakarkhedaSambhu"
     },
     {
-      "id": 243,
-      "District": "Amravati",
+      "id": "243",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Rama",
       "mLocation": "रामा",
@@ -3117,8 +3117,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Rama"
     },
     {
-      "id": 244,
-      "District": "Amravati",
+      "id": "244",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Thugaon (Purnanagar)",
       "mLocation": "थुगाव (पूर्णानगर)",
@@ -3130,8 +3130,8 @@
       "image": "http://nagpurdental.com/SthaanImages/ThugaonPurnanagar"
     },
     {
-      "id": 245,
-      "District": "Amravati",
+      "id": "245",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Asatpur",
       "mLocation": "असदपूर",
@@ -3143,8 +3143,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Asatpur"
     },
     {
-      "id": 246,
-      "District": "Amravati",
+      "id": "246",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Vadner (Bhujang)",
       "mLocation": "वडनेर (भुजंग)",
@@ -3156,8 +3156,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Vadner%20(Bhujang)"
     },
     {
-      "id": 247,
-      "District": "Amravati",
+      "id": "247",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Kakda",
       "mLocation": "काकडा",
@@ -3169,8 +3169,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Kakda"
     },
     {
-      "id": 248,
-      "District": "Amravati",
+      "id": "248",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Achalpur",
       "mLocation": "अचलपुर",
@@ -3182,8 +3182,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Achalpur"
     },
     {
-      "id": 249,
-      "District": "Amravati",
+      "id": "249",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Achalpur (Bor ban)",
       "mLocation": "अचलपुर (बोरबन)",
@@ -3194,8 +3194,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Achalpur"
     },
     {
-      "id": 250,
-      "District": "Amravati",
+      "id": "250",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Achalpur (Charanchari)",
       "mLocation": "अचलपुर (चरणचारी)",
@@ -3206,8 +3206,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Achalpur"
     },
     {
-      "id": 251,
-      "District": "Amravati",
+      "id": "251",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Ashtamahasiddhi",
       "mLocation": "अष्टमहासिद्धी",
@@ -3219,8 +3219,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Ashtamahasiddhi"
     },
     {
-      "id": 252,
-      "District": "Amravati",
+      "id": "252",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Kurha",
       "mLocation": "कुर्‍हा",
@@ -3232,8 +3232,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Kurha"
     },
     {
-      "id": 253,
-      "District": "Amravati",
+      "id": "253",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Deurwada (Kajli)",
       "mLocation": "देऊरवाडा (काजळी)",
@@ -3245,8 +3245,8 @@
       "image": "http://nagpurdental.com/SthaanImages/DeurwadaKajli"
     },
     {
-      "id": 254,
-      "District": "Amravati",
+      "id": "254",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Deurwada (Kajli) (Narsimha Mandir)",
       "mLocation": "देऊरवाडा (काजळी) (नरसिंह मंदिर)",
@@ -3257,8 +3257,8 @@
       "image": "http://nagpurdental.com/SthaanImages/DeurwadaKajliNarsimha"
     },
     {
-      "id": 255,
-      "District": "Amravati",
+      "id": "255",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Madhan",
       "mLocation": "माधान",
@@ -3270,8 +3270,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Madhan"
     },
     {
-      "id": 256,
-      "District": "Amravati",
+      "id": "256",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Nanori",
       "mLocation": "नानोरी",
@@ -3283,8 +3283,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Nanori"
     },
     {
-      "id": 257,
-      "District": "Amravati",
+      "id": "257",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Sonori",
       "mLocation": "सोनोरी",
@@ -3296,8 +3296,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Sonori"
     },
     {
-      "id": 258,
-      "District": "Amravati",
+      "id": "258",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Sonori (Sonjay)",
       "mLocation": "सोनोरी (सोनजय)",
@@ -3308,8 +3308,8 @@
       "image": "http://nagpurdental.com/SthaanImages/SonoriSonjay"
     },
     {
-      "id": 259,
-      "District": "Amravati",
+      "id": "259",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Domak",
       "mLocation": "डोमक ",
@@ -3321,8 +3321,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Domak"
     },
     {
-      "id": 260,
-      "District": "Amravati",
+      "id": "260",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Ashtoli",
       "mLocation": "आष्टोली",
@@ -3334,8 +3334,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Ashtoli"
     },
     {
-      "id": 261,
-      "District": "Amravati",
+      "id": "261",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Kolvihir",
       "mLocation": "कोळविहीर",
@@ -3347,8 +3347,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Kolvihir"
     },
     {
-      "id": 262,
-      "District": "Amravati",
+      "id": "262",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Khed",
       "mLocation": "खेड",
@@ -3360,8 +3360,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Khed"
     },
     {
-      "id": 263,
-      "District": "Amravati",
+      "id": "263",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Pala",
       "mLocation": "पाळा",
@@ -3373,8 +3373,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Pala"
     },
     {
-      "id": 264,
-      "District": "Amravati",
+      "id": "264",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Shirkhed (Sthaan No.1)",
       "mLocation": "शिरखेड (स्थान क्र.1) ",
@@ -3385,8 +3385,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Shirkhed1"
     },
     {
-      "id": 265,
-      "District": "Amravati",
+      "id": "265",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Shirked (Sthaan No.2)",
       "mLocation": "शिरखेड (स्थान क्र.2) ",
@@ -3397,8 +3397,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Shirkhed2"
     },
     {
-      "id": 266,
-      "District": "Amravati",
+      "id": "266",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Shirkhed (Sthaan No.3-9)",
       "mLocation": "शिरखेड (स्थान क्र.3-9) ",
@@ -3409,8 +3409,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Shirkhed3-9"
     },
     {
-      "id": 267,
-      "District": "Amravati",
+      "id": "267",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Katpur",
       "mLocation": "काटपूर",
@@ -3422,8 +3422,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Katpur"
     },
     {
-      "id": 268,
-      "District": "Amravati",
+      "id": "268",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Akhatwada",
       "mLocation": "आखतवाडा",
@@ -3435,8 +3435,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Akhatwada"
     },
     {
-      "id": 269,
-      "District": "Amravati",
+      "id": "269",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Akhatwada (Kalankeshwar Sthaan)",
       "mLocation": "आखतवाडा (कलंकेश्वर स्थान) ",
@@ -3447,8 +3447,8 @@
       "image": "http://nagpurdental.com/SthaanImages/AkhatwadaKalankeshwar"
     },
     {
-      "id": 270,
-      "District": "Amravati",
+      "id": "270",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Tivsa (East)",
       "mLocation": "तिवसा (पू.)",
@@ -3460,8 +3460,8 @@
       "image": "http://nagpurdental.com/SthaanImages/TivsaEast"
     },
     {
-      "id": 271,
-      "District": "Amravati",
+      "id": "271",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Tivsa (West)",
       "mLocation": "तिवसा (प.)",
@@ -3472,8 +3472,8 @@
       "image": "http://nagpurdental.com/SthaanImages/TivsaWest"
     },
     {
-      "id": 272,
-      "District": "Amravati",
+      "id": "272",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Maldhur",
       "mLocation": "माळधूर",
@@ -3485,8 +3485,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Maldhur"
     },
     {
-      "id": 273,
-      "District": "Amravati",
+      "id": "273",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Shendurjana Bazar",
       "mLocation": "शेंदुरजना (बाजार)",
@@ -3498,8 +3498,8 @@
       "image": "http://nagpurdental.com/SthaanImages/ShendurjanaBazar"
     },
     {
-      "id": 274,
-      "District": "Amravati",
+      "id": "274",
+      "district": "Amravati",
       "mDistrict": "अमरावती",
       "name": "Namaskari",
       "mLocation": "नमस्कारी",
@@ -3511,8 +3511,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Namaskari"
     },
     {
-      "id": 275,
-      "District": "Wardha",
+      "id": "275",
+      "district": "Wardha",
       "mDistrict": "वर्धा",
       "name": "Bhishnur",
       "mLocation": "भिष्णूर ",
@@ -3524,8 +3524,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Bhishnur"
     },
     {
-      "id": 276,
-      "District": "Nagpur",
+      "id": "276",
+      "district": "Nagpur",
       "mDistrict": "नागपूर",
       "name": "Katol",
       "mLocation": "काटोल",
@@ -3537,8 +3537,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Katol"
     },
     {
-      "id": 277,
-      "District": "Nagpur",
+      "id": "277",
+      "district": "Nagpur",
       "mDistrict": "नागपूर",
       "name": "Katol (Jamb River)",
       "mLocation": "काटोल (जांब नदी)",
@@ -3549,8 +3549,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Katol"
     },
     {
-      "id": 278,
-      "District": "Nagpur",
+      "id": "278",
+      "district": "Nagpur",
       "mDistrict": "नागपूर",
       "name": "Mansar",
       "mLocation": "मनसर",
@@ -3562,8 +3562,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Mansar"
     },
     {
-      "id": 279,
-      "District": "Nagpur",
+      "id": "279",
+      "district": "Nagpur",
       "mDistrict": "नागपूर",
       "name": "Mansar (Manshila)",
       "mLocation": "मनसर (मनशिळा)",
@@ -3574,8 +3574,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Mansar"
     },
     {
-      "id": 280,
-      "District": "Nagpur",
+      "id": "280",
+      "district": "Nagpur",
       "mDistrict": "नागपूर",
       "name": "Ramtek",
       "mLocation": "रामटेक",
@@ -3587,8 +3587,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Ramtek"
     },
     {
-      "id": 281,
-      "District": "Nagpur",
+      "id": "281",
+      "district": "Nagpur",
       "mDistrict": "नागपूर",
       "name": "Mauda",
       "mLocation": "मौदा",
@@ -3600,8 +3600,8 @@
       "image": "http://nagpurdental.com/SthaanImages/Mauda"
     },
     {
-      "id": 282,
-      "District": "Bhandara",
+      "id": "282",
+      "district": "Bhandara",
       "mDistrict": "भंडारा",
       "name": "Bhandara (Kham Talao)",
       "mLocation": "भंडारा (खांब तलाव) ",
@@ -3613,8 +3613,8 @@
       "image": "http://nagpurdental.com/SthaanImages/BhandaraKhamTalao"
     },
     {
-      "id": 283,
-      "District": "Bhandara",
+      "id": "283",
+      "district": "Bhandara",
       "mDistrict": "भंडारा",
       "name": "Bhandara (Panch Deuli)",
       "mLocation": "भंडारा (पंचदेऊळी)",
@@ -3625,8 +3625,8 @@
       "image": "http://nagpurdental.com/SthaanImages/BhandaraPanchDeuli"
     },
     {
-      "id": 284,
-      "District": "Bhandara",
+      "id": "284",
+      "district": "Bhandara",
       "mDistrict": "भंडारा",
       "name": "Bhandara (Paanipatra Sthaan)",
       "mLocation": "भंडारा (पाणिपात्र स्थान)",
@@ -3637,8 +3637,8 @@
       "image": "http://nagpurdental.com/SthaanImages/BhandaraPaanipatra"
     },
     {
-      "id": 285,
-      "District": "Gondia",
+      "id": "285",
+      "district": "Gondia",
       "mDistrict": "गोंदिया",
       "name": "Sukli (Dakram) ",
       "mLocation": "सुकळी (डाकराम)",
@@ -3650,8 +3650,8 @@
       "image": "http://nagpurdental.com/SthaanImages/SukliDakram"
     },
     {
-      "id": 286,
-      "District": "M.P.",
+      "id": "286",
+      "district": "M.P.",
       "mDistrict": "मध्यप्रदेश",
       "name": "Salbardi (Sasa Rakshan)",
       "mLocation": "सालबर्डी (ससा रक्षण)",
@@ -3663,8 +3663,8 @@
       "image": "http://nagpurdental.com/SthaanImages/SalbardiSasaRakshan"
     },
     {
-      "id": 287,
-      "District": "M.P.",
+      "id": "287",
+      "district": "M.P.",
       "mDistrict": "मध्यप्रदेश",
       "name": "Salbardi (Aasan Sthaan)",
       "mLocation": "सालबर्डी (आसन स्थान)",
