@@ -2,6 +2,7 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
+import 'package:google_language_fonts/google_language_fonts.dart';
 import 'src/locations.dart' as locations;
 
 void main() {
@@ -45,23 +46,114 @@ class _MyAppState extends State<MyApp> {
         colorSchemeSeed: Colors.green[700],
       ),
       home: Scaffold(
-        appBar: AppBar(
-          title: const Text('Mahanubhav Sthaan Vandan'),
-          elevation: 2,
-        ),
-        body: GoogleMap(
-          onMapCreated: _onMapCreated,
-          myLocationEnabled: true,
-          initialCameraPosition: const CameraPosition(
-            target: LatLng(20.9320, 77.7523),
-            zoom: 6,
+          appBar: AppBar(
+            title: const Text('Mahanubhav Sthaan Vandan'),
+            elevation: 2,
           ),
-          markers: _markers.values.toSet(),
-          //onMapCreated: (mapController) {
-          // this.mapController.complete(mapController);
-          //},
-        ),
-      ),
+          body: GoogleMap(
+            onMapCreated: _onMapCreated,
+            myLocationButtonEnabled: true,
+            initialCameraPosition: const CameraPosition(
+              target: LatLng(20.9320, 77.7523),
+              zoom: 6,
+            ),
+            markers: _markers.values.toSet(),
+            //onMapCreated: (mapController) {
+            // this.mapController.complete(mapController);
+            //},
+          ),
+          drawer: Drawer(
+            child: ListView(
+              padding: EdgeInsets.all(8),
+              children: <Widget>[
+                Container(
+                  height: 50,
+                  color: Colors.amber[100],
+                  child: Center(child: Text('Akola')),
+                ),
+                Container(
+                  height: 50,
+                  color: Colors.amber[200],
+                  child: Center(child: Text('Amravati')),
+                ),
+                Container(
+                  height: 50,
+                  color: Colors.amber[100],
+                  child: Center(child: Text('Ahmednagar')),
+                ),
+                Container(
+                  height: 50,
+                  color: Color.fromRGBO(255, 224, 130, 1),
+                  child: Center(child: Text('Aurangabad')),
+                ),
+                Container(
+                  height: 50,
+                  color: Colors.amber[100],
+                  child: Center(child: Text('Gondia')),
+                ),
+                Container(
+                  height: 50,
+                  color: Colors.amber[200],
+                  child: Center(child: Text('Jalgaon')),
+                ),
+                Container(
+                  height: 50,
+                  color: Colors.amber[100],
+                  child: Center(child: Text('Jalna')),
+                ),
+                Container(
+                  height: 50,
+                  color: Colors.amber[200],
+                  child: Center(child: Text('Nanded')),
+                ),
+                Container(
+                  height: 50,
+                  color: Colors.amber[100],
+                  child: Center(child: Text('Nagpur')),
+                ),
+                Container(
+                  height: 50,
+                  color: Colors.amber[200],
+                  child: Center(child: Text('Nashik')),
+                ),
+                Container(
+                  height: 50,
+                  color: Colors.amber[100],
+                  child: Center(child: Text('Beed')),
+                ),
+                Container(
+                  height: 50,
+                  color: Colors.amber[200],
+                  child: Center(child: Text('Buldhana')),
+                ),
+                Container(
+                  height: 50,
+                  color: Colors.amber[100],
+                  child: Center(child: Text('Bhandara')),
+                ),
+                Container(
+                  height: 50,
+                  color: Colors.amber[200],
+                  child: Center(child: Text('Madhya Pradesh')),
+                ),
+                Container(
+                  height: 50,
+                  color: Colors.amber[100],
+                  child: Center(child: Text('Wardha')),
+                ),
+                Container(
+                  height: 50,
+                  color: Colors.amber[200],
+                  child: Center(child: Text('Washim')),
+                ),
+                Container(
+                  height: 50,
+                  color: Colors.amber[100],
+                  child: Center(child: Text('Satara')),
+                ),
+              ],
+            ),
+          )),
     );
   }
 }
