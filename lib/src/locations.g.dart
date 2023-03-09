@@ -37,7 +37,8 @@ Office _$OfficeFromJson(Map<String, dynamic> json) => Office(
       lng: (json['lng'] as num).toDouble(),
       name: json['name'] as String,
       mLocation: json['mLocation'] as String,
-      district: json['district'] as String,
+      //district: json['district'] as String,
+      district: json.containsKey('district') ? json['district'] as String : "",
     );
 
 Map<String, dynamic> _$OfficeToJson(Office instance) => <String, dynamic>{
