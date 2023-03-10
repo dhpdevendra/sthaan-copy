@@ -44,13 +44,16 @@ class Office {
   Office({
     //required this.address,
     required this.id,
-    required this.image,
-    required this.lat,
-    required this.lng,
+    required this.district,
+    required this.mDistrict,
     required this.name,
     required this.mLocation,
+    required this.lat,
+    required this.lng,
+    required this.image,
+    required this.mShortDescription,
+    required this.mLongDescription,
     //required this.phone,
-    required this.district,
   });
 
   factory Office.fromJson(Map<String, dynamic> json) => _$OfficeFromJson(json);
@@ -58,13 +61,17 @@ class Office {
 
   //final String address;
   final String id;
-  final String image;
-  final double lat;
-  final double lng;
+  final String district;
+  final String mDistrict;
   final String name;
   final String mLocation;
+  final double lat;
+  final double lng;
+  final String mShortDescription;
+  final String mLongDescription;
+  final String image;
+
   //final String phone;
-  final String district;
 }
 
 @JsonSerializable()
@@ -84,7 +91,8 @@ class Locations {
 
 Future<Locations> getGoogleOffices() async {
   const googleLocationsURL =
-      'http://sarvadnyadental.com/static/data/locations.json';
+      //  'http://sarvadnyadental.com/static/data/locations.json';
+      "";
   //'https://about.google/static/data/locations.json';
   // Retrieve the locations of Mahanubhav Sthaan
   try {

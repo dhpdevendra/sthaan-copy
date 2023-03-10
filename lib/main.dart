@@ -30,7 +30,7 @@ class _MyAppState extends State<MyApp> {
           position: LatLng(office.lat, office.lng),
           infoWindow: InfoWindow(
             title: office.name,
-            snippet: office.mLocation,
+            snippet: office.mShortDescription,
           ),
         );
         _markers[office.name] = marker;
@@ -46,116 +46,131 @@ class _MyAppState extends State<MyApp> {
         colorSchemeSeed: Colors.green[700],
       ),
       home: Scaffold(
-          appBar: AppBar(
-            title: const Text('Mahanubhav Sthaan Vandan'),
-            elevation: 2,
+        appBar: AppBar(
+          title: const Text('Mahanubhav Sthaan Vandan'),
+          elevation: 2,
+        ),
+        body: GoogleMap(
+          onMapCreated: _onMapCreated,
+          mapType: MapType.hybrid,
+          myLocationButtonEnabled: true,
+          initialCameraPosition: const CameraPosition(
+            target: LatLng(20.9320, 77.7523),
+            zoom: 6,
           ),
-          body: GoogleMap(
-            onMapCreated: _onMapCreated,
-            myLocationButtonEnabled: true,
-            initialCameraPosition: const CameraPosition(
-              target: LatLng(20.9320, 77.7523),
-              zoom: 6,
-            ),
-            markers: _markers.values.toSet(),
-            //onMapCreated: (mapController) {
-            // this.mapController.complete(mapController);
-            //},
+          markers: _markers.values.toSet(),
+          //onMapCreated: (mapController) {
+          // this.mapController.complete(mapController);
+          //},
+        ),
+        drawer: Drawer(
+          child: ListView(
+            padding: const EdgeInsets.all(5),
+            children: <Widget>[
+              const SizedBox(
+                height: 90,
+                child: Center(
+                  child: Text(
+                    'Districts',
+                    style: TextStyle(
+                        fontFamily: 'Arial',
+                        fontSize: 18,
+                        fontWeight: FontWeight.bold),
+                  ),
+                ),
+              ),
+              Container(
+                height: 50,
+                color: Colors.amber[100],
+                child: const Center(child: Text('Akola')),
+              ),
+              Container(
+                height: 50,
+                color: Colors.amber[200],
+                child: const Center(child: Text('Amravati')),
+              ),
+              Container(
+                height: 50,
+                color: Colors.amber[100],
+                child: const Center(child: Text('Ahmednagar')),
+              ),
+              Container(
+                height: 50,
+                color: const Color.fromRGBO(255, 224, 130, 1),
+                child: const Center(child: Text('Aurangabad')),
+              ),
+              Container(
+                height: 50,
+                color: Colors.amber[100],
+                child: const Center(child: Text('Gondia')),
+              ),
+              Container(
+                height: 50,
+                color: Colors.amber[200],
+                child: const Center(child: Text('Jalgaon')),
+              ),
+              Container(
+                height: 50,
+                color: Colors.amber[100],
+                child: const Center(child: Text('Jalna')),
+              ),
+              Container(
+                height: 50,
+                color: Colors.amber[200],
+                child: const Center(child: Text('Nanded')),
+              ),
+              Container(
+                height: 50,
+                color: Colors.amber[100],
+                child: const Center(child: Text('Nagpur')),
+              ),
+              Container(
+                height: 50,
+                color: Colors.amber[200],
+                child: const Center(child: Text('Nashik')),
+              ),
+              Container(
+                height: 50,
+                color: Colors.amber[100],
+                child: const Center(child: Text('Beed')),
+              ),
+              Container(
+                height: 50,
+                color: Colors.amber[200],
+                child: const Center(child: Text('Buldhana')),
+              ),
+              Container(
+                height: 50,
+                color: Colors.amber[100],
+                child: const Center(child: Text('Bhandara')),
+              ),
+              Container(
+                height: 50,
+                color: Colors.amber[200],
+                child: const Center(child: Text('Madhya Pradesh')),
+              ),
+              Container(
+                height: 50,
+                color: Colors.amber[100],
+                child: const Center(child: Text('Wardha')),
+              ),
+              Container(
+                height: 50,
+                color: Colors.amber[200],
+                child: const Center(child: Text('Washim')),
+              ),
+              Container(
+                height: 50,
+                color: Colors.amber[100],
+                child: const Center(child: Text('Satara')),
+              ),
+            ],
           ),
-          drawer: Drawer(
-            child: ListView(
-              padding: const EdgeInsets.all(8),
-              children: <Widget>[
-                Container(
-                  height: 50,
-                  color: Colors.amber[100],
-                  child: const Center(child: Text('Akola')),
-                ),
-                Container(
-                  height: 50,
-                  color: Colors.amber[200],
-                  child: const Center(child: Text('Amravati')),
-                ),
-                Container(
-                  height: 50,
-                  color: Colors.amber[100],
-                  child: const Center(child: Text('Ahmednagar')),
-                ),
-                Container(
-                  height: 50,
-                  color: const Color.fromRGBO(255, 224, 130, 1),
-                  child: const Center(child: Text('Aurangabad')),
-                ),
-                Container(
-                  height: 50,
-                  color: Colors.amber[100],
-                  child: const Center(child: Text('Gondia')),
-                ),
-                Container(
-                  height: 50,
-                  color: Colors.amber[200],
-                  child: const Center(child: Text('Jalgaon')),
-                ),
-                Container(
-                  height: 50,
-                  color: Colors.amber[100],
-                  child: const Center(child: Text('Jalna')),
-                ),
-                Container(
-                  height: 50,
-                  color: Colors.amber[200],
-                  child: const Center(child: Text('Nanded')),
-                ),
-                Container(
-                  height: 50,
-                  color: Colors.amber[100],
-                  child: const Center(child: Text('Nagpur')),
-                ),
-                Container(
-                  height: 50,
-                  color: Colors.amber[200],
-                  child: const Center(child: Text('Nashik')),
-                ),
-                Container(
-                  height: 50,
-                  color: Colors.amber[100],
-                  child: const Center(child: Text('Beed')),
-                ),
-                Container(
-                  height: 50,
-                  color: Colors.amber[200],
-                  child: const Center(child: Text('Buldhana')),
-                ),
-                Container(
-                  height: 50,
-                  color: Colors.amber[100],
-                  child: const Center(child: Text('Bhandara')),
-                ),
-                Container(
-                  height: 50,
-                  color: Colors.amber[200],
-                  child: const Center(child: Text('Madhya Pradesh')),
-                ),
-                Container(
-                  height: 50,
-                  color: Colors.amber[100],
-                  child: const Center(child: Text('Wardha')),
-                ),
-                Container(
-                  height: 50,
-                  color: Colors.amber[200],
-                  child: const Center(child: Text('Washim')),
-                ),
-                Container(
-                  height: 50,
-                  color: Colors.amber[100],
-                  child: const Center(child: Text('Satara')),
-                ),
-              ],
-            ),
-          )),
+        ),
+      ),
     );
   }
 }
 //flutter pub run build_runner build --delete-conflicting-outputs
-//to remove conflicts in locations.dart about Locations.fromJson
+//to remove conflicts in locations.dart about Locations.fromJson 
+//and to generate new locations.g.dart
