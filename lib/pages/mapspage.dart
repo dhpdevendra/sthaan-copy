@@ -3,11 +3,11 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:google_language_fonts/google_language_fonts.dart';
-import 'package:sthaan/pages/firstpage.dart';
-import 'package:sthaan/pages/mapspage.dart';
-import 'package:sthaan/utils/routes.dart';
+import 'package:google_fonts/google_fonts.dart';
+//import 'package:sthaan/pages/firstpage.dart';
+//import 'package:sthaan/utils/routes.dart';
 import 'package:sthaan/src/locations.dart' as locations;
-import 'package:flutter/services.dart' as rootBundle;
+//import 'package:flutter/services.dart' as rootBundle;
 import 'package:custom_info_window/custom_info_window.dart';
 
 class MapsPage extends StatefulWidget {
@@ -43,9 +43,8 @@ class _MapsPageState extends State<MapsPage> {
   Widget build(BuildContext context) {
     return MaterialApp(
       theme: ThemeData(
-        useMaterial3: true,
-        colorSchemeSeed: Colors.green[700],
-      ),
+          //fontFamily: GoogleFonts.lato().fontFamily,
+          ),
       home: Scaffold(
         appBar: AppBar(
           title: const Text('Mahanubhav Sthaan Vandan'),
@@ -62,9 +61,6 @@ class _MapsPageState extends State<MapsPage> {
             zoom: 6,
           ),
           markers: _markers.values.toSet(),
-          //onMapCreated: (mapController) {
-          // this.mapController.complete(mapController);
-          //},
         ),
         drawer: Drawer(
           child: ListView(

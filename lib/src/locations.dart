@@ -91,8 +91,8 @@ class Locations {
 
 Future<Locations> getGoogleOffices() async {
   const googleLocationsURL =
-      'http://sarvadnyadental.com/static/data/locations.json';
-  //"";
+      //'http://sarvadnyadental.com/static/data/locations.json';
+      "";
 
   // Retrieve the locations of Mahanubhav Sthaan
   try {
